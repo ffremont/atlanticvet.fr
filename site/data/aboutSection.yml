@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: e-carnet
+title: >
+  ## Carnet Electronique
+
+  Accédez gratuitement au carnet électronique de votre animal
+content: >
+  ### Tous les résultats & compte-rendus
+
+  Grâce au e-carnet vous pouvez suivre en toute simplificité les informations de santé de votre compagnon.
+button1Name: Consulter maintenant
+button1Target: ecarnet
+image: images/ecarnet/main.jpg
