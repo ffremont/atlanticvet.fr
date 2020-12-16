@@ -17,21 +17,25 @@ name = "Galerie"
 url = "#gallery"
 weight = 3
 [[menu.main]]
-name = "Urgences"
-url = "#resume"
+name = "⚠ Urgences"
+url = "#emergency"
 weight = 4
 [[menu.main]]
 name = "Spécialités"
-url = "#blog"
+url = "#specialty"
 weight = 5
 [[menu.main]]
 name = "Equipe"
 url = "#team"
 weight = 6
 [[menu.main]]
+name = "Tarifs"
+url = "/tarifs"
+weight = 7
+[[menu.main]]
 name = "Contact"
 url = "#Contact"
-weight = 7
+weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
