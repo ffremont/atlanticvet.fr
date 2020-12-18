@@ -26,15 +26,15 @@ url = "#specialty"
 weight = 5
 [[menu.main]]
 name = "Equipe"
-url = "#team"
+url = "/equipe/atlanticvet"
 weight = 6
 [[menu.main]]
 name = "Tarifs"
-url = "/tarifs"
+url = "/tarifs/niort-benet"
 weight = 7
 [[menu.main]]
 name = "Contact"
-url = "#Contact"
+url = "/contact"
 weight = 8
 
 # Sitemap Menu

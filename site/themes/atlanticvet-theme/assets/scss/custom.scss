@@ -11,17 +11,10 @@
 }
 
 .emergency a {
-    color: #6e1646;
-}
-.text-primary {
-    color: #6e1747!important;
+    color: #7fb842;
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #6e1646;
-    border-color: #772452;
-}
+
 .btn-outline-primary {
     color: #87c544;
     border-color: #87c544;
@@ -37,3 +30,61 @@
 .hero_figure-popup .popup-button svg path {
     fill: #87c544;
 }
+
+.tarifs-infos{
+    margin-top:40px;
+    text-align: left;
+
+    h4{
+        font-size: 1.4rem;
+    }
+    ul,p{
+        font-size: 0.9rem;
+    }
+}
+.tarifs-infos+.tarifs-infos{
+    margin-top:20px;
+}
+
+.tarifs-title{
+    margin-top:40px;
+}
+
+.totop{
+    border: 0;
+    line-height: 20px;
+    font-size: 4rem;
+    color: #000000d4;
+    background: transparent;
+    position: fixed;
+    bottom: 50px;
+    right: 70px;
+    z-index: 9;
+    padding: 0;
+    margin: 0;
+}
+
+
+.gallery {
+    .thumb{
+        width:10rem;
+    }
+
+}
+.app-iframe-container,.app-iframe{
+    height: calc(100vh - 100px);
+    width:100vw;
+}
+.app-iframe{
+    position: absolute;
+    top: 140px;
+    left: 0;
+    right: 0;
+    
+}
+
+@media only screen and (max-width: 990px) {
+    .app-iframe{
+        top: 100px;
+    }
+  }

@@ -1,0 +1,35 @@
+[[entries]]
+label = "Consultation"
+category = ""
+price = "35"
+
+[[entries]]
+label = "Lapin : Myxomatose-rhd"
+category = "Vaccination"
+price = "43 à 65"
+
+[[entries]]
+label = "Furet : CHPPIL(1)"
+category = "Vaccination"
+price = "50"
+
+[[entries]]
+label = "Echographie abdominale complète"
+category = "Actes classiques"
+price = "68"
+
+[[entries]]
+label = "Echographie urinaire / génitale / hépatique / Cardiaque / de Gestation"
+category = "Actes classiques"
+price = "44"
+
+
+[[entries]]
+label = "Castration : Lapins / Furet / Cobaye"
+category = "Actes chirugicaux"
+price = "73"
+
+[[entries]]
+label = "Ovariectomie : Lapines / Furettes / Cobayes"
+category = "Actes chirugicaux"
+price = "128"

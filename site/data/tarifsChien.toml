@@ -1,0 +1,89 @@
+[[entries]]
+label = "Consultation"
+category = ""
+price = "34"
+
+[[entries]]
+label = "CHPPIL (1)"
+category = "Vaccination"
+price = "48"
+
+[[entries]]
+label = "CHPPIL(1) + Rage"
+category = "Vaccination"
+price = "60"
+
+[[entries]]
+label = "CHPPIL(1) + Toux de chenil complet"
+category = "Vaccination"
+price = "70"
+
+[[entries]]
+label = "CHPPIL(1) + Toux de chenil complet + Rage"
+category = "Vaccination"
+price = "80"
+
+[[entries]]
+label = "Piroplasmose"
+category = "Vaccination"
+price = "85"
+
+[[entries]]
+label = "Toux du chenil complet seul"
+category = "Vaccination"
+price = "50"
+
+[[entries]]
+label = "Herpesvirose"
+category = "Vaccination"
+price = "67"
+
+[[entries]]
+label = "Identification"
+category = ""
+price = "56"
+
+[[entries]]
+label = "Prise de sang"
+category = "Actes classiques"
+price = "16"
+
+[[entries]]
+label = "Bilan biochimique 10 paramètres : pré-anesthésique complet(2)"
+category = "Actes classiques"
+price = "60/80"
+
+[[entries]]
+label = "Bilan senior complet(3)"
+category = "Actes classiques"
+price = "115"
+
+[[entries]]
+label = "Numération formule(4)"
+category = "Actes classiques"
+price = "32"
+
+[[entries]]
+label = "Ionogramme"
+category = "Actes classiques"
+price = "26"
+
+[[entries]]
+label = "Echographie abdominale complète"
+category = "Actes classiques"
+price = "65"
+
+[[entries]]
+label = "Echographie urinaire / génitale / hépatique / Cardiaque / de Gestation)"
+category = "Actes classiques"
+price = "44"
+
+[[entries]]
+label = "Castration"
+category = "Actes chirugicaux"
+price = "135 à 275"
+
+[[entries]]
+label = "Ovariectomie"
+category = "Actes chirugicaux"
+price = "315 à 404"

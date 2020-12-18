@@ -86,10 +86,8 @@
 		</div>
 	</div>
 </section>
-<script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.map.APIkey }}&libraries=geometry"></script>
-<script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="{{ "plugins/bootstrap/bootstrap.min.js" | absURL }}"></script>
-<script src="{{ "plugins/slick/slick.min.js" | absURL }}"></script>
 <script src="{{ "plugins/slick/slick.min.js" | absURL }}"></script>
 <script src="{{ "plugins/waypoint/jquery.waypoints.min.js" | absURL }}"></script>
 <script src="{{ "plugins/magnafic-popup/jquery.magnific-popup.min.js" | absURL }}"></script>
@@ -97,6 +95,10 @@
 <script src="{{ "plugins/imagesloaded/imagesloaded.min.js" | absURL }}"></script>
 <script src="{{ "plugins/masonry/masonry.min.js" | absURL }}"></script>
 {{ $formhandler := resources.Get "js/form-handler.js" | minify }}
+{{ $formhandler := resources.Get "js/app.js" | minify }}
 <script src="{{ $formhandler.Permalink }}"></script>
 {{ $script := resources.Get "js/script.js" | minify }}
 <script src="{{ $script.Permalink }}"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery-all.min.js"> 	</script>
