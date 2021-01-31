@@ -1,60 +1,68 @@
 ---
 title: "Animaux d’élevage"
 date: 2021-01-31T06:00:00+01:00
-description: A Atlantic Vet nous soignons et opérons toutes sortes d’animaux.
+description: Nos vétérinaires mixtes pratiquent vaccinations, chirurgies et médecine sur tous les gros animaux.
 featureImage: images/specialties/animaux_elevage/cow.svg
 image: images/specialties/animaux_elevage/cow.svg
 type: specialite
 ---
 
-### A Atlantic Vet nous soignons et opérons toutes sortes d’animaux.
+### Nos vétérinaires mixtes pratiquent vaccinations, chirurgies et médecine sur tous les gros animaux.
+
+* Mouton
+* Chèvre
+* Vache 
+* Cochon
+
+### Ils se déplacent en élevage pour toutes sortes d’anomalies.
+
+**Sur place nos vétérinaires s’occupent  :**
+
+* Des prophylaxies  
+    * Vaccinations : IBR, FCO …
+    * Prophylaxie d’achat
+    * Test de tuberculination
+* Des problèmes médicaux
+    * Maladies respiratoires
+    * Problèmes gastro-intestinaux
+    * Problèmes cardiaques
+    * Problèmes dermatologiques : teigne, poux …
+* Des problèmes de reproduction 
+    * Métrite
+    * Echographie de gestation
+    * Mammites
+    * Fièvre de lait
+    * Vêlages, agnelage ..
+* Des problèmes orthopédiques
+    * Boiteries
+    * Fractures
+    * Affections podales…
+* Des interventions chirurgicales
+    * Césariennes
+    * Retournements de matrice
+    * Sutures
+    * Déplacements de caillette
+    * Hernies ombilicales …
+* Des suivis médicaux spécifiques
+    * Gestion alimentation de troupeaux
+    * Bilan sanitaire d’élevage
+    * Visite sanitaire
+
+### Ils pratiquent à la fois une médecine individuelle centrée sur l’animal ainsi qu’une gestion médicale complète à l’échelle des troupeaux.
 
 
 {{< myfigure 
-    url="/images/specialties/nac/20161209_172139-225x300.jpg"
-    alt="Dr Reboli"
-    description="Dr Reboli avec un lapin nain le 24 décembre" >}}
-
-
-Les « Nouveaux Animaux de Compagnie » ou NAC sont de plus en plus présents au sein de nos patients et nécessitent une prise en charge adaptée à leurs particularités physiologiques et métaboliques. Ils font l’objet d’une attention particulière du fait de leur fragilité (digestive notamment pour les lapins et les cochons d’inde).
+    url="/images/specialties/animaux_elevage/14922966_10211118350620412_1858841552_o-169x300.jpg"
+    alt="Dr Faucher"
+    description="Prise de sang sur un lama par le Dr Faucher" >}}
 
 {{< myfigure 
-    url="/images/specialties/nac/tortue.-300x169.jpg"
-    alt="Tortue en nage^^"
-    description="Montage pour maintenir une tortue en suspension pour le séchage de sa nouvelle carapace  en résine." >}}
-
-Il est souhaitable, lors des consultations, de nous amener la composition de leur alimentation et, éventuellement, une photo de leur environnement. Il est préférable si possible d’apporter les oiseaux de tout petit format (canaris, perruches) dans leurs cages plutôt que dans des petites boîtes de transport. Beaucoup de symptômes chez ces animaux très sensibles au stress ne sont en effet visibles que lorsque l’oiseau est tranquillement observé à distance. Lorsqu’ils sont attrapés, la grande majorité des symptômes disparaît sous l’effet de la peur.
-
-**Chez ces animaux, une baisse de l’état général ou une baisse de l’appétit (voire de l’anorexie) constitue toujours un motif de consultation urgent. N’hésitez pas à nous appeler si leur comportement suscite la moindre inquiétude.**
+    url="/images/specialties/animaux_elevage/bovin-carré-1-300x283.jpg"
+    alt="Dr Desort"
+    description="Dr Desort pratiquant une chirurgie de hernie ombilicale sur un veau" >}}
 
 {{< myfigure 
-    url="/images/specialties/nac/phpEHuwl5_15878843_10211770848652455_1336230514_n-207x300.jpg"
-    alt="Dr Reboli anesthésiant un furet"
-    description="Dr Reboli anesthésiant un furet au masque pour la pose de son implant de castration chimique" >}}
+    url="/images/specialties/animaux_elevage/20161124_155734-300x169.jpeg"
+    alt="Charlotte"
+    description="Charlotte s’apprêtant à préparer chirurgicalement un jeune bouc pour sa castration au cabinet de Benet." >}}
 
-{{< myfigure 
-    url="/images/specialties/nac/20150827_130131-300x169.jpg"
-    alt="poule dormeuse"
-    description="Anesthésie gazeuse d’une poule de compagnie" >}}
-
-{{< myfigure 
-    url="/images/specialties/nac/niort-_75-300x200.jpg"
-    alt="poule en consultation"
-    description="Examen clinique d’une poule de compagnie en consultation" >}}
-
-{{< myfigure 
-    url="/images/specialties/nac/chauve-souris.-300x225.jpg"
-    alt="chauve souris"
-    description="Petite chauve souris reçue en consultation car elle s’était prise une aile dans un hameçon de pêcheur, elle est repartie en pleine forme et apte à voler." >}}
-
-{{< myfigure 
-    url="/images/specialties/nac/20151020_164509-e1476734542213-169x300.jpg"
-    alt="Chouette"
-    description="Charlotte avec une jolie chouette effraie hospitalisée à Atlantic Vet" >}}
-
-{{< myfigure 
-    url="/images/specialties/nac/32559389_1944829298860784_558247471038332928_n-300x225.jpg"
-    alt="bouc"
-    description="Céline tient un jeune bouc venu pour sa castration" >}}
-    
-    
