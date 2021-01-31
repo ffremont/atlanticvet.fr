@@ -29,12 +29,24 @@
         </div>
         <p>
           {{ .Params.shortDescription }}
-        </p>    
+        </p>
 
-        aaaa
+        <div class="">
+          <ul class="list-unstyled row gallery">
 
-      
-       
+            {{ range .Site.Data.equipe.entries }}
+
+            <li class="col-xs-6 col-sm-4 col-md-3" data-src="{{.image}}"
+              data-sub-html="<h4>{{.label}}</h4><p>{{.description}}</p>">
+              <a href="">
+                <img class="thumb img-responsive" src="{{.image}}">
+              </a>
+            </li>
+            {{end}}
+          </ul>
+        </div>
+
+
       </div>
     </div>
     <div class="row">
@@ -51,23 +63,17 @@
               </svg>
             </div>
             <div class="content">
-              <span class="small">Prev case</span>
+              <span class="small">Précédent</span>
               <h5 class="title"><a class="text-dark"
                   href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
             </div>
           </div>
           {{ end }}
-          <div class="social">
-            {{ $url := printf "%s" .Permalink | absLangURL }}
-            <ul class="unstyle-list big">
-              <li>
-                <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i class="fa fa-facebook-official btn-zoom"></i></a>
-              </li>
-          </div>
+         
           {{ if .NextInSection }}
           <div class="next d-flex align-items-center">
             <div class=" content text-right">
-              <span class="small">Next case</span>
+              <span class="small">Prochaine page</span>
               <h5 class="title">
                 <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
               </h5>

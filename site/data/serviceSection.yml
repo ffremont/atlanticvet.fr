@@ -7,28 +7,37 @@ title: >
   Nous vous accueillons à Niort et Benet avec notre équipe compétente et dynamique.
 service:
   - content: >
-      #### Horaires
+      #### Horaires Niort
 
-      **Clinique de Niort**
-      Lundi au vendredi : 8h30 – 12h / 14h – 19h
-      Samedi : 8h30 – 12 h 
-      
-      **Cabinet de Benet**
-      Lundi – Jeudi : 9 h -12 h /  14h – 18h45
-      Mardi – Mercredi – Vendredi : 14h-18h45
-      Samedi : 9h – 11h45
+      **Lundi au vendredi** : 8h30 – 12h / 14h – 19h
+      **Samedi** : 8h30 – 12 h 
+
     
       **De préférence sur rendez-vous**
-    image: images/service/horaires.svg
+    image: images/service/horaires-niort.svg
+  - content: >
+      #### Horaires Benet
+
+      **Lundi – Jeudi** : 9 h -12 h /  14h – 18h45
+      **Mardi – Mercredi – Vendredi** : 14h-18h45
+      **Samedi** : 9h – 11h45
+
+    
+      **De préférence sur rendez-vous**
+    image: images/service/horaires-benet.svg
   - content: >
       #### Urgences 
 
-      24h/24  7j/7    –  05 .49.73.48.61
+      24h/24  7j/7 par téléphone
+      
+
+      **[05.49.73.48.61](tel:05.49.73.48.61)**
     image: images/service/urgences.svg
   - content: >
       #### 2 sites
 
       **Clinique de Niort** : 19 rue de pierre 79000
+
 
       **Cabinet de Benet** : Z A du moulin du joug 85490
     image: images/service/sites.svg

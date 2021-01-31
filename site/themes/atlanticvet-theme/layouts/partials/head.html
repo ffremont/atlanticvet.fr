@@ -1,3 +1,5 @@
+{{- $description   := .Site.Params.description -}}
+{{- $image   := .Params.ogImage -}}
 <head>
   <meta charset="utf-8" />
   <title>{{ .Title }}</title>
@@ -5,6 +7,25 @@
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  {{if gt (len .Description) 1}}
+  <meta name="description" content="{{- .Description -}}">
+  <meta property="og:description" content="{{- .Description -}}" />
+  {{else}}
+  <meta name="description" content="{{- $description -}}">
+  <meta property="og:description" content="{{- $description -}}" />
+  {{end}}
+  
+  {{if isset .Params "image"}}
+  <meta property="og:image" content="{{- .Params.image | absURL -}}" />
+  {{end}}
+  {{ if isset .Params "title"}}
+  <meta property="og:title" content="{{- .Params.title -}}" />
+  {{end}}
+
+  <meta property="og:site_name" content="AtlanticVet" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fr_FR" />
 
   {{ "<!-- Slick Carousel -->" | safeHTML }}
   <link rel="stylesheet" href="{{ "plugins/slick/slick.css" | absURL }}" />

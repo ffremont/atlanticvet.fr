@@ -31,7 +31,9 @@
           {{ .Params.shortDescription }}
         </p>
     
-        {{ .Content }}
+        <div class="default-content">
+          {{ .Content }}
+        </div>
       </div>
     </div>
     <div class="row">
@@ -48,7 +50,7 @@
               </svg>
             </div>
             <div class="content">
-              <span class="small">Prev case</span>
+              <span class="small">Précédent</span>
               <h5 class="title"><a class="text-dark"
                   href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
             </div>
@@ -61,20 +63,13 @@
                 <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i
                     class="fa fa-facebook-official btn-zoom"></i></a>
               </li>
-              <li>
-                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}"><i
-                    class="fa fa-linkedin-square btn-zoom"></i></a>
-              </li>
-              <li>
-                <a href="https://twitter.com/intent/tweet?&url={{ $url }}"><i
-                    class="fa fa-twitter-square btn-zoom"></i></a>
-              </li>
+              
             </ul>
           </div>
           {{ if .NextInSection }}
           <div class="next d-flex align-items-center">
             <div class=" content text-right">
-              <span class="small">Next case</span>
+              <span class="small">Prochaine page</span>
               <h5 class="title">
                 <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
               </h5>

@@ -27,7 +27,7 @@
 						<h2 class="mb-0">Prendre un rendez-vous</h2>
 					</div>
 					<div class="footer__cta_action">
-						<a class="btn btn-light btn-zoom" style="color:#1b2031;" href="{{ .Site.Params.contactLink | absURL }}">Téléphoner</a>
+						<a class="btn btn-light btn-zoom" style="color:#1b2031;" href="tel:{{ .Site.Params.contactTel }}">Téléphoner</a>
 					</div>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="text-light footer__widget_sitemap mb-5">
-					<h4 class="base-font">Sitemap</h4>
+					<h4 class="base-font">Plan du site</h4>
 					<ul class="unstyle-list small">
 						{{ $sitemap := .Site.Menus.sitemap }}
 						{{ range $sitemap }}
@@ -51,16 +51,19 @@
 			</div>
 			<div class="col-lg-4">
 				<div class="text-light footer__widget_address mb-5">
-					<h4 class="base-font">Address</h4>
-					{{ $address := .Site.Params.address }}
+					<h4 class="base-font">Adresses</h4>
 					<ul class="fa-ul small">
-						<li class="mb-2"><a class="text-light" href="tel:{{ $address.phone }}"><span class="fa-li"><i
-										class="fa fa-phone"></i></span>{{ $address.phone }}</a></li>
-						<li class="mb-2"><a class="text-light" href="mailto:{{ $address.email }}"><span class="fa-li"><i
-										class="fa fa-envelope"></i></span>{{ $address.email }}</a></li>
 						<li class="mb-2">
-							<span class="fa-li"><i class="fa fa-map-marker"></i></span>{{ $address.address }}</a>
+							<a class="text-light" href="/contact">
+								Clinique de Niort
+							</a>
 						</li>
+						<li class="mb-2">
+							<a class="text-light" href="/contact">
+								Cabinet de Benet
+							</a>
+						</li>
+						
 					</ul>
 				</div>
 			</div>

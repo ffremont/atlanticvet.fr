@@ -83,8 +83,78 @@
     
 }
 
+.contact-sites{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    .contact-site{
+        margin:0px 40px;
+    }
+}
+
+.contact-site{
+    .phone-btn{
+        display:block
+    }
+}
+
+.gallery .thumb{
+    padding:10px;
+}
+
+a.vaccin-link{
+    font-size: 3rem;
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+}
+
+.footer__widget_logo img{
+    max-width: 150px;
+}
+
+figure.myfigure{
+    &.myfigure{
+        margin-top:10px;
+    }
+    img{
+        max-width: 280px;
+    }
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+    border: 2px solid #80808052;
+    padding: 5px 0px;
+    border-radius: 5px;
+
+    h1,h2,h3,h4,h5,h6{
+        font-size: 1rem;
+        margin-bottom: 5px; 
+        margin-top: 5px;
+    }
+
+    p{
+        font-size: 0.7rem;
+        margin: 4px;
+    }
+}
+
+.default-content{
+    text-align: left;
+}
+
+
 @media only screen and (max-width: 990px) {
     .app-iframe{
         top: 100px;
+    }
+    .contact-sites{
+        flex-direction: column;
+
+        .contact-site+.contact-site{
+            margin-top:20px;
+        }
     }
   }

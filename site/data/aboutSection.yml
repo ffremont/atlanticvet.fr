@@ -10,5 +10,5 @@ content: >
 
   Grâce au e-carnet vous pouvez suivre en toute simplificité les informations de santé de votre compagnon.
 button1Name: Consulter maintenant
-button1Target: ecarnet
+button1Target: ecarnet/myvetapps
 image: images/ecarnet/main.jpg

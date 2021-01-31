@@ -51,7 +51,9 @@
                                 </svg>
                             </div>
                             <div class="icon">
-                                <img src=" {{ .image | absURL }} " alt="ui-ux">
+                                {{with .image}}
+                                    <img src=" {{ . | absURL }} " alt="ui-ux">
+                                {{end}}
                             </div>
                         </div>
                         <div class="mt-5">

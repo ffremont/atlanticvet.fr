@@ -1,12 +1,12 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 paginate = 6
 theme = "atlanticvet-theme"
-title = "AtlanticVet"
+title = "AtlanticVet | Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 # Main Menu
 [[menu.main]]
 name = "E-carnet"
-url = "#ecarnet"
+url = "ecarnet/myvetapps"
 weight = 1
 [[menu.main]]
 name = "Infos pratiques"
@@ -14,10 +14,10 @@ url = "#service"
 weight = 2
 [[menu.main]]
 name = "Galerie"
-url = "#gallery"
+url = "#galerie"
 weight = 3
 [[menu.main]]
-name = "⚠ Urgences"
+name = "Urgences"
 url = "#emergency"
 weight = 4
 [[menu.main]]
@@ -26,49 +26,49 @@ url = "#specialty"
 weight = 5
 [[menu.main]]
 name = "Equipe"
-url = "/equipe/atlanticvet"
+url = "equipe/atlanticvet"
 weight = 6
 [[menu.main]]
 name = "Tarifs"
-url = "/tarifs/niort-benet"
+url = "tarifs/niort-benet"
 weight = 7
 [[menu.main]]
 name = "Contact"
-url = "/contact"
+url = "contact"
 weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "E-carnet"
+url = "ecarnet/myvetapps"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "Infos pratiques"
+url = "/#service"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
+name = "Urgences"
+url = "/##emergency"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
-url = "#"
+name = "Tarifs"
+url = "tarifs/niort-benet"
 weight = 4
+[[menu.sitemap]]
+name = "Contact"
+url = "contact"
+weight = 5
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
+contactTel = "0549734861"
+copyright = "Tous droits réservés © Florent FREMONT 2021"
+footerLogo = "images/mini-logo-blanc.png"
+description = "Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/logo.png"
 
-[params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
@@ -79,17 +79,6 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/atlanticvetniortetbenet/"
 weight = 1
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
+

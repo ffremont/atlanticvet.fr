@@ -1,0 +1,12 @@
+{{- $url   := .Get "url" -}}
+{{- $title   := .Get "title" -}}
+{{- $alt   := .Get "alt" -}}
+{{- $description   := .Get "description" -}}
+
+<figure class="myfigure">
+    <img src="{{- $url -}}" alt="{{- $alt -}}"  />
+    <figcaption>
+        <h5>{{- $title -}}</h5>
+        <p>{{- $description -}}</p>
+    </figcaption>
+  </figure>
