@@ -59,6 +59,11 @@ name = "Contact"
 url = "contact"
 weight = 5
 
+[[menu.sitemap]]
+name = "Mentions"
+url = "mentions"
+weight = 6
+
 [params]
 blogPageURL = "blog"
 contactLink = "contact"

@@ -1,4 +1,79 @@
 [[entries]]
-label = "Dr Pascaline VIOLLEAU"
-description = "aaa"
+label = "Docteur CRINIERE Yves"
+description = "Service 24/24 | CHIEN | CHAT | GROS ANIMAUX | CONSULTATION"
+image = "/images/equipe/dr_CRINIERE.jpg"  
+
+[[entries]]
+label = "Docteur DESORT Matthieu"
+description = "Service 24/24 | CHIEN | CHAT | GROS ANIMAUX | CONSULTATION"
+image = "/images/equipe/Dr-Matthieu-Desort.jpg"
+
+[[entries]]
+label = "Docteur FRAYSSE Nicolas"
+description = "Service 24/24 | CHIEN | CHAT | GROS ANIMAUX | CONSULTATION"
+image = "/images/equipe/Dr-Nicolas-Fraysse.jpg"
+
+[[entries]]
+label = "Docteur STAS Luc"
+description = "Service 24/24 | CHIEN | CHAT | GROS ANIMAUX | OISEAUX | COQ / POULE | COCHON | CONSULTATION"
+image = "/images/equipe/Dr-Luc-Stas.jpg"  
+
+[[entries]]
+label = "Docteur VIOLLEAU Pascaline"
+description = "CHIEN | CHAT | NAC | CONSULTATION | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
 image = "/images/equipe/Dr-Pascaline-Violleau.jpg"
+
+[[entries]]
+label = "Docteur MATHON Oriane"
+description = "CHIEN | CHAT | NAC | CONSULTATIONS | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
+image = "/images/equipe/Dr-Oriane-Mathon_am.jpg"
+
+[[entries]]
+label = "Docteur REBOLI Camille"
+description = "CHIEN | CHAT | NAC | CONSULTATIONS | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
+image = "/images/equipe/Dr-Camille-Reboli_am.jpg"    
+
+[[entries]]
+label = "Docteur ROTAT Christelle"
+description = "CHIEN | CHAT | NAC | CONSULTATIONS | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
+image = "/images/equipe/christelle_Rotat.png"
+
+[[entries]]
+label = "Charlotte B."
+description = "SOIN | CHIRURGIE | ACCUEIL"
+image = "/images/equipe/Charlotte-Biet.jpg"  
+
+[[entries]]
+label = "Céline B."
+description = "SOIN | CHIRURGIE"
+image = "/images/equipe/Céline-Bouard_am.jpg"
+
+[[entries]]
+label = "Emilie M."
+description = "SOIN | CHIRURGIE | ACCUEIL"
+image = "/images/equipe/Emilie-Massias.jpg"  
+
+[[entries]]
+label = "Kathleen D."
+description = "ACCUEIL | COMPTABILITE"
+image = "/images/equipe/Katleen-D.jpg"
+
+[[entries]]
+label = "Laetitia P."
+description = "SOIN | CHIRURGIE | ACCUEIL"
+image = "/images/equipe/Laeticia-Porchet_am.jpg"  
+
+[[entries]]
+label = "Mélanie E."
+description = "SOIN | CHIRURGIE | ACCUEIL"
+image = "/images/equipe/Mélanie-E.png"
+
+[[entries]]
+label = "Meggie G."
+description = "LOGISTIQUE | ACCUEIL"
+image = "/images/equipe/Meggie-Gagnaire_am.jpg"  
+
+[[entries]]
+label = "Stéphanie M."
+description = "SOIN | CHIRURGIE | ACCUEIL"
+image = "/images/equipe/Stephanie-Mousserion.jpg"

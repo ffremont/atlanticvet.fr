@@ -111,6 +111,20 @@ a.vaccin-link{
     text-transform: uppercase;
 }
 
+.urgences-area{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    z-index:99;
+
+    img{
+        background: #F44336;
+        border-radius: 40px;
+        width: 80px;
+        padding: 7px 5px 0px 5px;
+    }
+}
+
 .footer__widget_logo img{
     max-width: 150px;
 }
