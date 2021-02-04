@@ -22,7 +22,7 @@ url = "#emergency"
 weight = 4
 [[menu.main]]
 name = "Spécialités"
-url = "#specialty"
+url = "#specialites"
 weight = 5
 [[menu.main]]
 name = "Equipe"
