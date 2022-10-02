@@ -10,20 +10,21 @@ service:
       #### Horaires Niort
 
       **Lundi au vendredi** : 8h30 – 12h / 14h – 19h
-      **Samedi** : 8h30 – 12 h 
+      **Samedi** : 9h – 12 h  
 
-    
-      **De préférence sur rendez-vous**
+      **Urgences 24h/24**
+
     image: images/service/horaires-niort.svg
   - content: >
       #### Horaires Benet
 
-      **Lundi – Jeudi** : 9 h -12 h /  14h – 18h45
-      **Mardi – Mercredi – Vendredi** : 14h-18h45
-      **Samedi** : 9h – 11h45
+      **Lundi** 14h - 19h  
+      **Mardi** 9h - 12h / 14h - 19h  
+      **Mercredi** 9h - 12h / 14h - 19h  
+      **Jeudi**  14h - 19h
+      **Vendredi** 9h - 12h / 14h - 19h
+      **Samedi** : 8h30 – 12h
 
-    
-      **De préférence sur rendez-vous**
     image: images/service/horaires-benet.svg
   - content: >
       #### Urgences 

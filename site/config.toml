@@ -6,11 +6,12 @@ title = "AtlanticVet | Travaillons ensemble pour la santé et le bien-être de v
 # Main Menu
 [[menu.main]]
 name = "E-carnet"
-url = "ecarnet/myvetapps"
+url = "ecarnet-presentation"
 weight = 1
 [[menu.main]]
-name = "Infos pratiques"
-url = "#service"
+name = "⭐️ Equipe"
+url = "equipe/atlanticvet"
+
 weight = 2
 [[menu.main]]
 name = "Galerie"
@@ -21,12 +22,12 @@ name = "Urgences"
 url = "#emergency"
 weight = 4
 [[menu.main]]
-name = "Spécialités"
-url = "#specialites"
+name = "Infos pratiques"
+url = "#service"
 weight = 5
 [[menu.main]]
-name = "Equipe"
-url = "equipe/atlanticvet"
+name = "Spécialités"
+url = "#specialites"
 weight = 6
 [[menu.main]]
 name = "Tarifs"
@@ -68,12 +69,13 @@ weight = 6
 blogPageURL = "blog"
 contactLink = "contact"
 contactTel = "0549734861"
-copyright = "Tous droits réservés © Florent FREMONT 2021"
+contactTelNiort = "0549734861"
+contactTelBenet = "0251873135"
+copyright = "Tous droits réservés © Florent FREMONT 2022"
 footerLogo = "images/mini-logo-blanc.png"
 description = "Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/logo.png"
-
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"

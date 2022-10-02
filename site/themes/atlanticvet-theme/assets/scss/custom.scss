@@ -1,174 +1,219 @@
-.navbar-brand img{
-    width: 141px !important;
+.navbar-brand img {
+  width: 141px !important;
 }
 
 .resume__background {
-    background: #383838;
+  background: #383838;
 }
 
-.menu-icon{
-    width:24px;
+.menu-icon {
+  width: 24px;
 }
 
 .emergency a {
-    color: #7fb842;
+  color: #7fb842;
 }
 
-
 .btn-outline-primary {
-    color: #87c544;
-    border-color: #87c544;
+  color: #87c544;
+  border-color: #87c544;
 }
 
 .footer__cta {
-    background: #680d3f;
+  background: #680d3f;
 }
-.navbar .navbar-toggler-icon{
-    background-color: #6e1646;
+.navbar .navbar-toggler-icon {
+  background-color: #6e1646;
 }
 
 .hero_figure-popup .popup-button svg path {
-    fill: #87c544;
+  fill: #87c544;
 }
 
-.tarifs-infos{
-    margin-top:40px;
-    text-align: left;
+.tarifs-infos {
+  margin-top: 40px;
+  text-align: left;
 
-    h4{
-        font-size: 1.4rem;
-    }
-    ul,p{
-        font-size: 0.9rem;
-    }
+  h4 {
+    font-size: 1.4rem;
+  }
+  ul,
+  p {
+    font-size: 0.9rem;
+  }
 }
-.tarifs-infos+.tarifs-infos{
-    margin-top:20px;
-}
-
-.tarifs-title{
-    margin-top:40px;
+.tarifs-infos + .tarifs-infos {
+  margin-top: 20px;
 }
 
-.totop{
-    border: 0;
-    line-height: 20px;
-    font-size: 4rem;
-    color: #000000d4;
-    background: transparent;
-    position: fixed;
-    bottom: 50px;
-    right: 70px;
-    z-index: 9;
-    padding: 0;
-    margin: 0;
+.tarifs-title {
+  margin-top: 40px;
 }
 
+.totop {
+  border: 0;
+  line-height: 20px;
+  font-size: 4rem;
+  color: #000000d4;
+  background: transparent;
+  position: fixed;
+  bottom: 50px;
+  right: 70px;
+  z-index: 9;
+  padding: 0;
+  margin: 0;
+}
 
 .gallery {
-    .thumb{
-        width:10rem;
+  .thumb {
+    width: 10rem;
+  }
+}
+.app-iframe-container,
+.app-iframe {
+  height: calc(100vh - 100px);
+  width: 100vw;
+}
+.app-iframe {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  right: 0;
+}
+
+.contact-sites {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  .contact-site {
+    margin: 0px 40px;
+  }
+}
+
+.contact-site {
+  .phone-btn {
+    display: block;
+  }
+}
+
+.gallery .thumb {
+  padding: 10px;
+}
+
+a.big-link {
+  font-size: 3rem;
+  text-align: center;
+  display: block;
+  text-transform: uppercase;
+}
+
+.urgences-area {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  z-index: 99;
+
+  img {
+    background: #f44336;
+    border-radius: 40px;
+    width: 80px;
+    padding: 7px 5px 0px 5px;
+  }
+}
+
+.footer__widget_logo img {
+  max-width: 150px;
+}
+
+figure.myfigure {
+  &.myfigure {
+    margin-top: 10px;
+  }
+  img {
+    max-width: 280px;
+  }
+  max-width: 300px;
+  text-align: center;
+  margin: auto;
+  border: 2px solid #80808052;
+  padding: 5px 0px;
+  border-radius: 5px;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
+  p {
+    font-size: 0.7rem;
+    margin: 4px;
+  }
+}
+
+.default-content {
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    a + a {
+      margin-top: 10px;
     }
-
-}
-.app-iframe-container,.app-iframe{
-    height: calc(100vh - 100px);
-    width:100vw;
-}
-.app-iframe{
-    position: absolute;
-    top: 140px;
-    left: 0;
-    right: 0;
-    
+  }
 }
 
-.contact-sites{
+@media (min-width: 990px) {
+  .footer {
+    a + a {
+      margin-top: 10px;
+    }
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .app-iframe {
+    top: 100px;
+  }
+  .contact-sites {
+    flex-direction: column;
+
+    .contact-site + .contact-site {
+      margin-top: 20px;
+    }
+  }
+}
+
+.sc-animals {
+  h5 {
+    text-align: center;
+  }
+  .animaux {
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
 
-    .contact-site{
-        margin:0px 40px;
-    }
-}
-
-.contact-site{
-    .phone-btn{
-        display:block
-    }
-}
-
-.gallery .thumb{
-    padding:10px;
-}
-
-a.vaccin-link{
-    font-size: 3rem;
-    text-align: center;
-    display: block;
-    text-transform: uppercase;
-}
-
-.urgences-area{
-    position: fixed;
-    bottom: 50px;
-    right: 50px;
-    z-index:99;
-
-    img{
-        background: #F44336;
-        border-radius: 40px;
-        width: 80px;
-        padding: 7px 5px 0px 5px;
-    }
-}
-
-.footer__widget_logo img{
-    max-width: 150px;
-}
-
-figure.myfigure{
-    &.myfigure{
-        margin-top:10px;
-    }
-    img{
-        max-width: 280px;
-    }
-    max-width: 300px;
-    text-align: center;
-    margin: auto;
-    border: 2px solid #80808052;
-    padding: 5px 0px;
-    border-radius: 5px;
-
-    h1,h2,h3,h4,h5,h6{
-        font-size: 1rem;
-        margin-bottom: 5px; 
-        margin-top: 5px;
-    }
-
-    p{
-        font-size: 0.7rem;
-        margin: 4px;
-    }
-}
-
-.default-content{
-    text-align: left;
-}
-
-
-@media only screen and (max-width: 990px) {
-    .app-iframe{
-        top: 100px;
-    }
-    .contact-sites{
-        flex-direction: column;
-
-        .contact-site+.contact-site{
-            margin-top:20px;
-        }
+    img {
+      width: 70px;
+      margin-left: 30px;
     }
   }
+}
+
+.specialites{
+    text-align: center;
+    .row > *{
+        max-height: 300px;
+    }
+    img{
+        max-height: 150px;
+        width: auto;;
+    }
+}

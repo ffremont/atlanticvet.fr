@@ -1,27 +1,23 @@
 ---
 title: "Urgences"
-date: 2021-01-31T06:00:00+01:00
+date: 2022-10-01T06:00:00+01:00
 description: Prenez vos rendez-vous vaccinaux en ligne, en quelques cliques !
 image: images/urgences/icone-hopital-veterinaire-roussillon-medickit.png
 ---
 
-## Que faire en cas d’urgence vétérinaire ?
+## Urgences
 
-Il y a toujours un vétérinaire de notre clinique de garde (**qui répond au téléphone 24h/24 et 7 j/7 toute l’année** où vous rappelle dans les plus brefs délais si il est déjà occupé sur une autre urgence), **attention le vétérinaire n’est pas présent en permanence sur le site de la clinique.**
+En cas **d'urgence vitale uniquement**, il y a un vétérinaire joignable sur une plateforme téléphonique dédiée aux urgences.  
+
+{{< big-link url="tel:0549734861" label="05.49.73.48.61" >}}
+
+Celui / Celle-ci **vous questionnera** et affinera **s'il est nécessaire** que votre animal soit reçu en consultation et vous donnera ensuite l'heure du RDV et l'adresse du vétérinaire de garde parmi les 6 cliniques partenaires (Niort, Oscar, Coteaux, Vanderbecher, Aiffres, la Crèche, AtlanticVet).
+
 
 ### Gardez votre calme
 
 C’est la meilleure façon d’être efficace
 
-### Téléphonez au
-
-[05.49.73.48.61](tel:05.49.73.48.61)
-
-**Téléphonez au vétérinaire de garde d’AtlanticVet**
-
-Il vous répondra systématiquement ou vous rappellera dés que possible s’il est déjà occupé sur une autre urgence.
-
-Pensez pour cela à lui laisser un message sur le répondeur précisant le motif de votre appel et votre numéro de téléphone.
 
 ### Consignes
 
@@ -39,5 +35,3 @@ Pensez pour cela à lui laisser un message sur le répondeur précisant le motif
 ### Déplacements
 
 **Pour les chiens**, chats et NACs le vétérinaire d’urgences ne se déplace que sur le site de Niort. 
-
-**Pour les bovins ovins et caprins** il se déplace à votre domicile.
