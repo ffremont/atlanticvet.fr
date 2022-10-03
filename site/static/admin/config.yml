@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
 
-media_folder: "site/static/images/others" # Folder where user uploaded files should go
+media_folder: "site/static/images" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image mini", name: "featureImage", widget: "image", required: false}
-      - {label: "Image (seo))", name: "image", widget: "image", required: false}
+      - {label: "Image (seo)", name: "image", widget: "image", required: false}
       - {label: "Type", name: "type", widget: "string", default: "specialite"}
   - name: "pages"
     label: "Pages"
@@ -25,4 +25,36 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Description", name: "shortDescription", widget: "text"}
+      - file: "site/content/presentation-clinique-veterinaire-atlanticvet.md"
+        label: "Présentation"
+        name: "presentation"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Image (seo)", name: "image", widget: "image", required: false}
+          - {label: "Description", name: "description", widget: "text"}
+      - file: "site/content/click-and-collect.md"
+        label: "e-carnet présentation"
+        name: "e-carnet-presentation"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Image (seo)", name: "image", widget: "image", required: false}
+          - {label: "Description", name: "description", widget: "text"}
+      - file: "site/content/urgences.md"
+        label: "Urgences"
+        name: "urgences"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Image (seo)", name: "image", widget: "image", required: false}
+          - {label: "Description", name: "description", widget: "text"}
+      - file: "site/content/mentions.md"
+        label: "Mentions"
+        name: "mentions"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Image (seo)", name: "image", widget: "image", required: false}
           - {label: "Description", name: "description", widget: "text"}
