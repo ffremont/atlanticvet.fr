@@ -1,17 +1,17 @@
 [[entries]]
 label = "Consultation"
 category = ""
-price = "35"
+price = "38"
 
 [[entries]]
 label = "Lapin : Myxomatose-rhd"
 category = "Vaccination"
-price = "43 à 65"
+price = "46 à 70"
 
 [[entries]]
 label = "Furet : CHPPIL(1)"
 category = "Vaccination"
-price = "50"
+price = "53"
 
 [[entries]]
 label = "Echographie abdominale complète"
@@ -21,15 +21,15 @@ price = "68"
 [[entries]]
 label = "Echographie urinaire / génitale / hépatique / Cardiaque / de Gestation"
 category = "Actes classiques"
-price = "44"
+price = "48"
 
 
 [[entries]]
 label = "Castration : Lapins / Furet / Cobaye"
 category = "Actes chirugicaux"
-price = "73"
+price = "80"
 
 [[entries]]
 label = "Ovariectomie : Lapines / Furettes / Cobayes"
 category = "Actes chirugicaux"
-price = "128"
+price = "140"

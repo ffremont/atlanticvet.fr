@@ -1,6 +1,6 @@
 ---
 title: "Hospitalisation / Soins"
-date: 2021-02-01T13:00:00+01:00
+date: 2022-10-01T13:00:00+01:00
 description: Un service de soins respectueux du bien-être de votre animal
 featureImage: images/specialties/hospi/infirmière.png
 image: images/specialties/hospi/infirmière.png

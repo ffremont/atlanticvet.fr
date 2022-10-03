@@ -5,38 +5,41 @@ theme = "atlanticvet-theme"
 title = "AtlanticVet | Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 # Main Menu
 [[menu.main]]
-name = "E-carnet"
-url = "ecarnet-presentation"
+name = "Présentation"
+url = "presentation-clinique-veterinaire-atlanticvet"
 weight = 1
 [[menu.main]]
-name = "⭐️ Equipe"
-url = "equipe/atlanticvet"
-
+name = "E-carnet"
+url = "ecarnet-presentation"
 weight = 2
+[[menu.main]]
+name = "Equipe"
+url = "equipe/atlanticvet"
+weight = 3
 [[menu.main]]
 name = "Galerie"
 url = "#galerie"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Urgences"
 url = "#emergency"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Infos pratiques"
 url = "#service"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Spécialités"
 url = "#specialites"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Tarifs"
 url = "tarifs/niort-benet"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 8
+weight = 9
 
 # Sitemap Menu
 [[menu.sitemap]]

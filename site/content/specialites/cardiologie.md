@@ -1,6 +1,6 @@
 ---
 title: "Cardiologie"
-date: 2021-02-01T08:00:00+01:00
+date: 2022-10-01T08:00:00+01:00
 description: La cardiologie vétérinaire consiste à explorer le cœur et ses maladies mais également les conséquences cardiaques d’affections générales, de maladies infectieuses, tumorales, …
 featureImage: images/specialties/cardio/cardiogram.svg
 image: images/specialties/cardio/cardiogram.svg

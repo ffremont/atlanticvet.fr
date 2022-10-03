@@ -12,10 +12,7 @@ La radiographie reste la technique de choix dans l’exploration des structures 
 Elle permet d’obtenir une image en deux dimensions des structures étudiées.
 La radiographie est analysée sur un écran d’ordinateur et peut éventuellement être envoyée par email.
 
-{{< myfigure 
-    url="/images/specialties/radio/radiographie-carre-300x278.jpg"
-    alt="Dr Dommanget en radio"
-    description="Dr Dommanget réalise une radiographie abdominale sur un chat anesthésié avant une intervention chirurgicale." >}}
+
 
 ### Les indications
 

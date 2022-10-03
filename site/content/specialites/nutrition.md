@@ -1,6 +1,6 @@
 ---
 title: "Nutrition"
-date: 2021-02-01T12:00:00+01:00
+date: 2022-10-01T12:00:00+01:00
 description: Nous effectuons un suivi personnel du poids et de la forme de votre animal afin de vous proposer une gamme d’aliments adaptées spécifiquement à votre animal,  à son âge et ses pathologies éventuelles.
 featureImage: images/specialties/nutri/nutrition2.png
 image: images/specialties/nutri/nutrition2.png
@@ -22,9 +22,3 @@ url="/images/specialties/nutri/niort-_46-202x300.jpg"
 alt="Céline pèse ce jeune chiot pour suivre sa courbe de croissance."
 description="Céline pèse ce jeune chiot pour suivre sa courbe de croissance." >}}
 
-
-
-{{< myfigure 
-url="/images/specialties/nutri/niort-_254-300x200.jpg"
-alt="Pesée plus insolite d’un shetland avec Dr Faucher et Meggie"
-description="Pesée plus insolite d’un shetland avec Dr Faucher et Meggie" >}}

@@ -16,74 +16,70 @@ price = "64"
 [[entries]]
 label = "CHPPIL(1) + Toux de chenil complet"
 category = "Vaccination"
-price = "70"
+price = "84"
 
 [[entries]]
 label = "CHPPIL(1) + Toux de chenil complet + Rage"
 category = "Vaccination"
-price = "80"
+price = "84"
 
 [[entries]]
 label = "Piroplasmose"
 category = "Vaccination"
-price = "85"
+price = "89"
 
 [[entries]]
 label = "Toux du chenil complet seul"
 category = "Vaccination"
-price = "50"
+price = "53"
 
 [[entries]]
 label = "Herpesvirose"
 category = "Vaccination"
-price = "67"
+price = "71"
 
 [[entries]]
 label = "Identification"
 category = ""
-price = "56"
+price = "60"
 
 [[entries]]
 label = "Prise de sang"
 category = "Actes classiques"
-price = "16"
+price = "17"
 
 [[entries]]
-label = "Bilan biochimique 10 paramètres : pré-anesthésique complet(2)"
+label = "Bilan biochimique 10 paramètres / pré-anesthésique complet(2)"
 category = "Actes classiques"
-price = "60/80"
+price = "68/100"
 
-[[entries]]
-label = "Bilan senior complet(3)"
-category = "Actes classiques"
-price = "115"
 
 [[entries]]
 label = "Numération formule(4)"
 category = "Actes classiques"
-price = "32"
+price = "46"
 
 [[entries]]
 label = "Ionogramme"
 category = "Actes classiques"
-price = "26"
+price = "30"
 
 [[entries]]
 label = "Echographie abdominale complète"
 category = "Actes classiques"
-price = "65"
+price = "68"
 
 [[entries]]
 label = "Echographie urinaire / génitale / hépatique / Cardiaque / de Gestation)"
 category = "Actes classiques"
-price = "44"
+price = "46"
 
 [[entries]]
-label = "Castration"
+label = "Castration (selon poids)"
 category = "Actes chirugicaux"
-price = "135 à 275"
+price = "146 à 345"
 
 [[entries]]
-label = "Ovariectomie"
+label = "Ovariectomie (selon poids)"
 category = "Actes chirugicaux"
-price = "315 à 404"
+price = "261 à 438"

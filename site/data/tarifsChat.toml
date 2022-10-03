@@ -1,7 +1,7 @@
 [[entries]]
 label = "Consultation"
 category = ""
-price = "35"
+price = "38"
 
 [[entries]]
 label = "TCL (Typhus – Coryza – Leucose)"
@@ -11,65 +11,61 @@ price = "68"
 [[entries]]
 label = "TCL + Rage"
 category = "Vaccination"
-price = "78"
+price = "83"
 
 [[entries]]
 label = "Identification"
 category = ""
-price = "56"
+price = "60"
 
 [[entries]]
 label = "Prise de sang"
 category = "Actes classiques"
-price = "16"
+price = "17"
 
 [[entries]]
 label = "Test Fiv – FelV"
 category = "Actes classiques"
-price = "37"
+price = "40"
 
 [[entries]]
 label = "Bilan biochimique 10 paramètres : pré-anesthésique complet(1)"
 category = "Actes classiques"
-price = "66"
+price = "68"
 
 [[entries]]
 label = "Bilan anesthésique complet"
 category = "Actes classiques"
-price = "80"
+price = "100"
 
-[[entries]]
-label = "Bilan senior complet(2)"
-category = "Actes classiques"
-price = "67"
 
 [[entries]]
 label = "Numération formule(3)"
 category = "Actes classiques"
-price = "32"
+price = "46"
 
 [[entries]]
 label = "Ionogramme"
 category = "Actes classiques"
-price = "26"
+price = "30"
 
 [[entries]]
 label = "Echographie abdominale complète"
 category = "Actes classiques"
-price = "65"
+price = "68"
 
 [[entries]]
-label = "Echographie (4)"
+label = "Echographie d'un organe (4)"
 category = "Actes classiques"
-price = "44"
+price = "46"
 
 
 [[entries]]
 label = "Castration"
 category = "Actes chirugicaux"
-price = "68"
+price = "75"
 
 [[entries]]
 label = "Ovariectomie"
 category = "Actes chirugicaux"
-price = "128"
+price = "140"

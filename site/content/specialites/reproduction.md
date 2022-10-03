@@ -1,6 +1,6 @@
 ---
 title: "Reproduction"
-date: 2021-02-01T11:00:00+01:00
+date: 2022-10-01T11:00:00+01:00
 description: Le suivi de la reproduction
 featureImage: images/specialties/repro/bebe.png
 image: images/specialties/repro/bebe.png

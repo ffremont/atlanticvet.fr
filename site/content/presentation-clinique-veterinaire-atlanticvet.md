@@ -17,4 +17,50 @@ _________________
 {{< animals >}}
 _________________
 
-#### Des consultations générales
+{{< icon-heading iconUrl="/images/icons/phonendoscope.svg" label="Des consultations générales" >}}
+- bilan de santé, visite prépubertaire / de croissance, bilan sur votre animal âgé…
+- vaccinations (chiens, chats, chevaux et NAC)
+- identification par  puce électronique  (chiens, chats et NAC)
+- conseils pour vous aider à traiter les parasites externes et internes (puces, vers, tiques…) de vos - chiens, chats, furets...
+- conseils en alimentation : nous mettons à votre disposition plusieurs gammes complètes d’aliments (physiologique, spécifique d’une maladie vétérinaire, biologique…)
+
+
+{{< icon-heading iconUrl="/images/icons/hospital-2.svg" label="Des consultations de médecine" >}}
+- cardiologie
+- dermatologie
+- gastroentérologie
+- uronéphrologie
+- pneumologie
+- cancérologie
+- neurologie
+- ophtalmologie
+- imagerie : radiographie numérique, échographie
+- dentisterie…
+
+{{< icon-heading iconUrl="/images/icons/chirurgie.png" label="Des chirurgies" >}}
+- castrations et stérilisations de chiens, chats, lapins, furet, cheval, âne, bovins  …
+- chirurgie stomatologique, traumatique, en  O.R.L
+- chirurgies abdominales : digestive, urinaire, exérèse de masse abdominale…
+- chirurgie faciale : oreilles, narines …
+- chirurgie cutanée : exérèse de masses cutanées, biopsies…
+- chirurgie oncologique : exérèse de tumeurs mammaires…
+- chirurgie en ophtalmologie : chirurgie des paupières, ulcères cornéens, énucléations …
+- chirurgie obstétrique : césarienne petits, ovario-hysterectomie….
+
+{{< icon-heading iconUrl="/images/icons/computer-1.svg" label="Les chiffres-clés" >}}
+- plus de 500 m2 au service de la santé de nos animaux de compagnie
+- 30 places de parking
+- plus de 100 m2 pour le hall d’accueil et d’attente
+- 5 salles de consultations
+- 1 échographe
+- 1 radiographie numérique
+- 1 blocs opératoire
+- 3 zones d’hospitalisation (salle de réveil, salle d’hospitalisation de long séjour chiens et chats distincts et salle d’hospitalisation des animaux contagieux),
+- 8 vétérinaires sur le site
+- 16 personnes pour l’équipe au total
+
+{{< icon-heading iconUrl="/images/icons/calendar-2.svg" label="Les dates-clés" >}}
+- La Clinique Vétérinaire Atanticvet a été créée en 1968
+- En 2009, le cabinet vétérinaire de Benet a été construit
+- En 2015, l’intégralité de la clinique de Niort a été rénovée et agrandit
+- En 2022, des travaux sont réalisés sur Niort et Benet pour ajouter 1 salle de consultation supplémentaire dans chacun des 2 sites.

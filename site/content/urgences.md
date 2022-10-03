@@ -4,8 +4,7 @@ date: 2022-10-01T06:00:00+01:00
 description: Prenez vos rendez-vous vaccinaux en ligne, en quelques cliques !
 image: images/urgences/icone-hopital-veterinaire-roussillon-medickit.png
 ---
-
-## Urgences
+    
 
 En cas **d'urgence vitale uniquement**, il y a un vétérinaire joignable sur une plateforme téléphonique dédiée aux urgences.  
 

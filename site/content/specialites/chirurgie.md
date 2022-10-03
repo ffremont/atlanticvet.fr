@@ -1,6 +1,6 @@
 ---
 title: "Chirurgie"
-date: 2021-02-01T07:00:00+01:00
+date: 2022-10-01T07:00:00+01:00
 description: La chirurgie constitue une part importante de l’activité d’Atlantic Vet. Les interventions que nous sommes amenés à pratiquer se divisent en trois catégories, la chirurgie de convenance, la chirurgie orthopédique et la chirurgie des tissus mous.
 featureImage: images/specialties/chir/chirurgie.png
 image: images/specialties/chir/chirurgie.png
@@ -9,10 +9,6 @@ type: specialite
 La chirurgie constitue une part importante de l’activité d’Atlantic Vet. Les interventions que nous sommes amenés à pratiquer se divisent en trois catégories : la chirurgie de convenance, la chirurgie orthopédique et la chirurgie des tissus mous.
 
     
-{{< myfigure 
-    url="/images/specialties/chir/chirurgie-carre-296x300.jpg"
-    alt="Dr Dommanget en chir"
-    description="Dr Dommanget (chirurgienne spécialiste de la clinique)" >}}
 
 La lutte contre la douleur (confère onglet douleur) et la sécurité de l’anesthésie sont, bien sûr, des préoccupations constantes, et des préalables à toute intervention.
 
@@ -20,11 +16,6 @@ La lutte contre la douleur (confère onglet douleur) et la sécurité de l’ane
 Il existe un très large éventail de chirurgies des tissus mous, des plus « basiques » (nettoyage d’un abcès de chat), aux plus élaborées (nephrectomie, mammectomie ….)
 
 Cependant, aucune intervention n’est prise à la légère, et nos principes de lutte contre la douleur, d’asepsie, de surveillance de l’anesthésie… s’appliquent dans tous les cas, y compris lors d’une simple castration de chat.
-
-{{< myfigure 
-    url="/images/specialties/chir/20161027_113230-300x169.jpeg"
-    alt="Emilie en préparation chirurgicale"
-    description="Emilie réalisant la préparation chirurgicale d’un chien avant sa chirurgie au cabinet de Benet" >}}
 
 
 {{< myfigure 
