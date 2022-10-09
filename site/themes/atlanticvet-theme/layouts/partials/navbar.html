@@ -1,4 +1,35 @@
 <nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container mobile">
+    <div class="extra-navbar-area">
+      <a class="nav-default" href="/contact/">
+        <div class="nav-icon">
+          <span class="material-symbols-outlined">
+            info
+            </span>
+          </div>
+        <div class="nav-label">Infos pratiques</div>
+        </a>
+      <a class="nav-primary" href="/ecarnet-presentation/">
+        <div class="nav-icon">
+          <span class="material-symbols-outlined">
+            menu_book
+            </span>
+        </div>
+        <div class="nav-label">e-carnet de santé</div>
+      </a>
+      <a class="nav-secondary" href="/click-and-collect/">
+        <div class="nav-icon">
+          <span class="material-symbols-outlined">
+            shopping_cart
+            </span>
+        </div>
+        <div class="nav-label">Boutique en ligne</div>
+      </a>
+      <!--a href="{{ "click-and-collect" | absURL }}" class="btn btn-primary btn-zoom hire_button">
+        Click & Collect</a>
+    </div-->
+  </div>
+  </div>
   <div class="container">
     <a href="{{ .Site.BaseURL }}" class="navbar-brand">
       <img src="{{ .Site.Params.logo | absURL }}" alt="site-logo">
@@ -19,10 +50,34 @@
         </li>
         {{ end }}
       </ul>
-      <div class="navbar-nav">
-        <a href="{{ "click-and-collect" | absURL }}" class="btn btn-primary btn-zoom hire_button">
+      <div class="navbar-nav extra-navbar-area desktop">
+        <a class="nav-default" href="/contact/">
+          <div class="nav-icon">
+            <span class="material-symbols-outlined">
+              info
+              </span>
+            </div>
+          <div class="nav-label">Infos pratiques</div>
+          </a>
+        <a class="nav-primary" href="/ecarnet-presentation/">
+          <div class="nav-icon">
+            <span class="material-symbols-outlined">
+              menu_book
+              </span>
+          </div>
+          <div class="nav-label">e-carnet de santé</div>
+        </a>
+        <a class="nav-secondary" href="/click-and-collect/">
+          <div class="nav-icon">
+            <span class="material-symbols-outlined">
+              shopping_cart
+              </span>
+          </div>
+          <div class="nav-label">Boutique en ligne</div>
+        </a>
+        <!--a href="{{ "click-and-collect" | absURL }}" class="btn btn-primary btn-zoom hire_button">
           Click & Collect</a>
-      </div>
+      </div-->
     </div>
   </div>
 </nav>

@@ -31,16 +31,11 @@ weight = 6
 [[menu.main]]
 name = "Spécialités"
 url = "#specialites"
-weight = 7
-[[menu.main]]
-name = "Tarifs"
-url = "tarifs/niort-benet"
 weight = 8
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 9
-
 # Sitemap Menu
 [[menu.sitemap]]
 name = "E-carnet"
@@ -54,10 +49,6 @@ weight = 2
 name = "Urgences"
 url = "/##emergency"
 weight = 3
-[[menu.sitemap]]
-name = "Tarifs"
-url = "tarifs/niort-benet"
-weight = 4
 [[menu.sitemap]]
 name = "Contact"
 url = "contact"
@@ -78,7 +69,7 @@ copyright = "Tous droits réservés © Florent FREMONT 2022"
 footerLogo = "images/mini-logo-blanc.png"
 description = "Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/logo.png"
+logo = "images/mini-logo.png"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
