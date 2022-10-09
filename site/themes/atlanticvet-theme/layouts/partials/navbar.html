@@ -1,39 +1,36 @@
 <nav class="navbar navbar-expand-lg fixed-top">
-  <div class="container mobile">
-    <div class="extra-navbar-area">
-      <a class="nav-default" href="/#infos-pratiques">
-        <div class="nav-icon">
-          <span class="material-symbols-outlined">
-            info
-            </span>
-          </div>
-        <div class="nav-label">Infos pratiques</div>
-        </a>
-      <a class="nav-primary" href="/ecarnet-presentation/">
-        <div class="nav-icon">
-          <span class="material-symbols-outlined">
-            menu_book
-            </span>
-        </div>
-        <div class="nav-label">e-carnet de santé</div>
-      </a>
-      <a class="nav-secondary" href="/boutique-en-ligne/">
-        <div class="nav-icon">
-          <span class="material-symbols-outlined">
-            shopping_cart
-            </span>
-        </div>
-        <div class="nav-label">Boutique en ligne</div>
-      </a>
-      <!--a href="{{ "click-and-collect" | absURL }}" class="btn btn-primary btn-zoom hire_button">
-        Click & Collect</a>
-    </div-->
-  </div>
-  </div>
+ 
   <div class="container">
     <a href="{{ .Site.BaseURL }}" class="navbar-brand">
       <img src="{{ .Site.Params.logo | absURL }}" alt="site-logo">
     </a>
+    
+    <div class="mobile">
+      <div class="extra-navbar-area">
+        <a class="nav-default" href="/#infos-pratiques">
+          <div class="nav-icon">
+            <img src="/images/icons/info.svg" alt="infos pratique"/>
+            </div>
+          <!--div class="nav-label">Infos pratiques</div-->
+          </a>
+        <a class="nav-primary" href="/ecarnet-presentation/">
+          <div class="nav-icon">
+            <img src="/images/icons/book.svg" alt="e-carnet vétérinaire"/>
+          </div>
+          <!--div class="nav-label">e-carnet de santé</div-->
+        </a>
+        <a class="nav-secondary" href="/boutique-en-ligne/">
+          <div class="nav-icon">
+            <img src="/images/icons/cart.svg" alt="boutique en ligne chronovet"/>
+          </div>
+          <!--div class="nav-label">Boutique en ligne</div-->
+        </a>
+        <!--a href="{{ "click-and-collect" | absURL }}" class="btn btn-primary btn-zoom hire_button">
+          Click & Collect</a>
+      </div-->
+    </div>
+    </div>
+
     <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbarCollapse">
       <span class="navbar-toggler-icon"></span>
       <span class="navbar-toggler-icon"></span>
@@ -53,27 +50,21 @@
       <div class="navbar-nav extra-navbar-area desktop">
         <a class="nav-default" href="/#infos-pratiques">
           <div class="nav-icon">
-            <span class="material-symbols-outlined">
-              info
-              </span>
+            <img src="/images/icons/info.svg" alt="infos pratique"/>
             </div>
-          <div class="nav-label">Infos pratiques</div>
+          <!--div class="nav-label">Infos pratiques</div-->
           </a>
         <a class="nav-primary" href="/ecarnet-presentation/">
           <div class="nav-icon">
-            <span class="material-symbols-outlined">
-              menu_book
-              </span>
+            <img src="/images/icons/book.svg" alt="e-carnet vétérinaire"/>
           </div>
-          <div class="nav-label">e-carnet de santé</div>
+          <!--div class="nav-label">e-carnet de santé</div-->
         </a>
         <a class="nav-secondary" href="/boutique-en-ligne/">
           <div class="nav-icon">
-            <span class="material-symbols-outlined">
-              shopping_cart
-              </span>
+            <img src="/images/icons/cart.svg" alt="boutique en ligne chronovet"/>
           </div>
-          <div class="nav-label">Boutique en ligne</div>
+          <!--div class="nav-label">Boutique en ligne</div-->
         </a>
         <!--a href="{{ "click-and-collect" | absURL }}" class="btn btn-primary btn-zoom hire_button">
           Click & Collect</a>

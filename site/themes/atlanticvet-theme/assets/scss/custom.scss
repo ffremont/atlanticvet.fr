@@ -102,11 +102,18 @@
   padding: 10px;
 }
 
+
 a.big-link {
-  font-size: 3rem;
+  font-size: 2rem;
   text-align: center;
   display: block;
   text-transform: uppercase;
+
+  border: 2px solid #6e1646;
+  border-radius: 7px;
+}
+a.big-link+a.big-link{
+  margin-top:10px;
 }
 
 
@@ -212,13 +219,20 @@ figure.myfigure {
   }
 }
 
-.navbar-brand {
-  img {
-    max-width: 70px;
+.navbar{
+  & > .container{
+      gap:15px;
   }
 }
 
-.container.mobile {
+.navbar-brand {
+  img {
+    max-width: 60px;
+  }
+}
+
+.mobile {
+  flex:1;
   .extra-navbar-area {
     width: 100%;
   }
@@ -246,6 +260,9 @@ figure.myfigure {
     display: flex;
     align-items: end;
     justify-content: center;
+    img{
+      max-width: 60px;
+    }
     .material-symbols-outlined {
       font-size: 2rem;
     }
@@ -255,10 +272,11 @@ figure.myfigure {
   .nav-primary,
   .nav-secondary {
     border-radius: 4px;
+    border:2px solid grey;
   }
 
   .nav-secondary {
-    background-color: #7e7e8a;
+    /*background-color: #7e7e8a;*/
     &,
     a {
       color: white;
@@ -266,7 +284,7 @@ figure.myfigure {
   }
 
   .nav-default {
-    background-color: #7fb843;
+   /* background-color: #7fb843;*/
     &,
     a {
       color: white;
@@ -274,7 +292,7 @@ figure.myfigure {
   }
 
   .nav-primary {
-    background-color: #6e1646;
+    /*background-color: #6e1646;*/
     &,
     a {
       color: white;
