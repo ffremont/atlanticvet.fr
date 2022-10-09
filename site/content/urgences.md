@@ -11,7 +11,7 @@ image: images/urgences/icone-hopital-veterinaire-roussillon-medickit.png
 En cas **d'urgence vitale uniquement**, un vétérinaire régulateur vous répondra.  
 Vous serez automatiquement rediriger vers une plateforme de régulation vétérinaire.
 
-{{< big-link url="0549734861" label="05.49.73.48.61" >}}
+{{< big-link url="tel:0549734861" label="05.49.73.48.61" >}}
 
 
 Le vétérinaire de la plateforme **vous questionnera** et **estimera le degré d'urgence** de votre animal. 
