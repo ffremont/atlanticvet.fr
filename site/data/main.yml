@@ -1,12 +1,10 @@
 ---
 enable: true
-topTitle: Clinique et Cabinet vétérinaire
-content: >
-  # Niort & Benet
-
-  Travaillons ensemble pour la santé et le bien-être de vos compagnons
-buttonName: consulter le e-carnet
-buttonURL: ecarnet-presentation
-image: images/site-navigation/niort_benet2.png
+title: AtlanticVet
+subTitle: Niort & Benet
+content: Travaillons ensemble pour la santé et le bien-être de vos compagnons
+buttonName: Nous découvrir
+buttonURL: presentation-clinique-veterinaire-atlanticvet
+image: images/logo.png
 # videoThumb: images/site-navigation/accueil_video.png
 # videoURL: https://www.youtube.com/watch?v=fOH0M4_yIok

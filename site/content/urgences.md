@@ -6,11 +6,23 @@ image: images/urgences/icone-hopital-veterinaire-roussillon-medickit.png
 ---
     
 
-En cas **d'urgence vitale uniquement**, il y a un vétérinaire joignable sur une plateforme téléphonique dédiée aux urgences.  
 
-{{< big-link url="tel:0549734861" label="05.49.73.48.61" >}}
 
-Celui / Celle-ci **vous questionnera** et affinera **s'il est nécessaire** que votre animal soit reçu en consultation et vous donnera ensuite l'heure du RDV et l'adresse du vétérinaire de garde parmi les 6 cliniques partenaires (Niort, Oscar, Coteaux, Vanderbecher, Aiffres, la Crèche, AtlanticVet).
+En cas **d'urgence vitale uniquement**, un vétérinaire régulateur vous répondra.  
+Vous serez automatiquement rediriger vers une plateforme de régulation vétérinaire.
+
+{{< big-link url="0549734861" label="05.49.73.48.61" >}}
+
+
+Le vétérinaire de la plateforme **vous questionnera** et **estimera le degré d'urgence** de votre animal. 
+
+Il vous donnera des conseils précis, et si votre animal nécessite **une prise en charge** d'urgence, il fixera un rendez-vous auprès du vétérinaire de garde parmi les 6 cliniques partenaires:
+- AtlanticVet (site de Niort)
+- Oscar&Cie (site de Mendes France)
+- Clinique vétérinaire du Coteau (Niort)
+- Cabinet vétérinaire Vanderbecken (Niort)
+- Clinique vétérinaire Artemis (Aiffres)
+- Cabinet Moivet (La crèche)
 
 
 ### Gardez votre calme

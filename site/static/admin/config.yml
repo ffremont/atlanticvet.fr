@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image (seo)", name: "image", widget: "image", required: false}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "site/content/click-and-collect.md"
+      - file: "site/content/boutique-en-ligne.md"
         label: "e-carnet présentation"
         name: "e-carnet-presentation"
         fields:

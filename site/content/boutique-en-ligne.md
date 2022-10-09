@@ -1,5 +1,5 @@
 ---
-title: "Click & Collect"
+title: "Boutique en ligne"
 date: 2022-10-01T06:00:00+01:00
 description: Commandez vos produits vétérinaires de qualité depuis la plateforme partenaire chronovet
 ---

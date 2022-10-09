@@ -22,15 +22,15 @@ url = "#galerie"
 weight = 4
 [[menu.main]]
 name = "Urgences"
-url = "#emergency"
+url = "/urgences/"
 weight = 5
 [[menu.main]]
 name = "Infos pratiques"
 url = "#service"
 weight = 6
 [[menu.main]]
-name = "Spécialités"
-url = "#specialites"
+name = "Services"
+url = "#services"
 weight = 8
 [[menu.main]]
 name = "Contact"
@@ -65,11 +65,11 @@ contactLink = "contact"
 contactTel = "0549734861"
 contactTelNiort = "0549734861"
 contactTelBenet = "0251873135"
-copyright = "Tous droits réservés © Florent FREMONT 2022"
-footerLogo = "images/mini-logo-blanc.png"
+copyright = "Tous droits réservés © Florent FREMONT 2022"   
 description = "Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/mini-logo.png"
+facebookPage="https://www.facebook.com/atlanticvetniortetbenet/"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"

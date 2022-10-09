@@ -109,19 +109,7 @@ a.big-link {
   text-transform: uppercase;
 }
 
-.urgences-area {
-  position: fixed;
-  bottom: 50px;
-  right: 50px;
-  z-index: 99;
 
-  img {
-    background: #f44336;
-    border-radius: 40px;
-    width: 80px;
-    padding: 7px 5px 0px 5px;
-  }
-}
 
 .footer__widget_logo img {
   max-width: 150px;
@@ -234,7 +222,7 @@ figure.myfigure {
   .extra-navbar-area {
     width: 100%;
   }
-  display: none;;
+  display: none;
   @include desktop {
     display: block;
   }
@@ -303,5 +291,60 @@ figure.myfigure {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  overflow-wrap: break-word;
+}
+
+.section {
+  &.service {
+    .actions {
+      padding: 0px 10px;
+      gap: 3px;
+      display: flex;
+      @include desktop {
+        flex-direction: column;
+      }
+    }
+  }
+
+  &.portfolio{
+    background-color: #7e7e8a;
+    &,
+    h2,
+    a,
+    p,
+    span {
+      color: white !important;
+    }
+  }
+
+  &.about {
+    background-color: #7e7e8a;
+    &,
+    h2 {
+      color: white;
+    }
+
+    .about_content-inner {
+      background: white;
+      &,
+      p,
+      h3 {
+        color: #7e7e8a;
+      }
+    }
+  }
+}
+
+.footer__widget_address{
+  span.title{
+    font-weight: bold;
   }
 }

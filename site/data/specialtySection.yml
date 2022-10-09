@@ -2,8 +2,8 @@
 enable: true
 topTitle: activités
 title: >
-  ## Spécialités
+  ## Services
 
   Nous pratiquons pour vos compagnons toutes les spécialités vétérinaires.
 
-buttonTarget: specialites
+buttonTarget: services

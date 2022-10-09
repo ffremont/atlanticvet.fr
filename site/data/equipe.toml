@@ -1,67 +1,62 @@
 [[entries]]
 label = "Docteur CRINIERE Yves"
 description = "Service 24/24 | CHIEN | CHAT | CONSULTATION"
-image = "/images/equipe/dr_CRINIERE.jpg"  
+image = "/images/equipe/dr_CRINIERE.png"  
 
 [[entries]]
 label = "Docteur DESORT Matthieu"
 description = "Service 24/24 | CHIEN | CHAT | CONSULTATION"
-image = "/images/equipe/Dr-Matthieu-Desort.jpg"
+image = "/images/equipe/Dr-Matthieu-Desort.png"
 
 [[entries]]
 label = "Docteur FRAYSSE Nicolas"
 description = "Service 24/24 | CHIEN | CHAT | CONSULTATION"
-image = "/images/equipe/Dr-Nicolas-Fraysse.jpg"
+image = "/images/equipe/Dr-Nicolas-Fraysse.png"
 
 [[entries]]
 label = "Docteur STAS Luc"
 description = "Service 24/24 | CHIEN | CHAT | OISEAUX | COQ / POULE | COCHON | CONSULTATION"
-image = "/images/equipe/Dr-Luc-Stas.jpg"  
+image = "/images/equipe/Dr-Luc-Stas.png"  
 
 [[entries]]
 label = "Docteur VIOLLEAU Pascaline"
 description = "CHIEN | CHAT | NAC | CONSULTATION | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
-image = "/images/equipe/Dr-Pascaline-Violleau.jpg"
+image = "/images/equipe/Dr-Pascaline-Violleau.png"
 
 [[entries]]
 label = "Docteur MATHON Oriane"
 description = "CHIEN | CHAT | NAC | CONSULTATIONS | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
-image = "/images/equipe/Dr-Oriane-Mathon_am.jpg"
+image = "/images/equipe/Dr-Oriane-Mathon_am.png"
 
 [[entries]]
 label = "Docteur REBOLI Camille"
 description = "CHIEN | CHAT | NAC | CONSULTATIONS | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
-image = "/images/equipe/Dr-Camille-Reboli_am.jpg"    
+image = "/images/equipe/Dr-Camille-Reboli_am.png"    
 
 [[entries]]
-label = "Docteur ROTAT Christelle"
+label = "Docteur STAS Catherine"
 description = "CHIEN | CHAT | NAC | CONSULTATIONS | ECHOGRAPHIE | CHIRURGIE | LABORATOIRE"
-image = "/images/equipe/christelle_Rotat.png"
+image = "/images/equipe/dr_catherine-stas.png"
 
 [[entries]]
 label = "Charlotte B."
 description = "SOIN | CHIRURGIE | ACCUEIL"
-image = "/images/equipe/Charlotte-Biet.jpg"  
+image = "/images/equipe/Charlotte-Biet.png"  
 
 [[entries]]
 label = "Céline B."
 description = "SOIN | CHIRURGIE"
-image = "/images/equipe/Céline-Bouard_am.jpg"
-
-[[entries]]
-label = "Emilie M."
-description = "SOIN | CHIRURGIE | ACCUEIL"
-image = "/images/equipe/Emilie-Massias.jpg"  
+image = "/images/equipe/Celine-Bouard_am.png"
 
 [[entries]]
 label = "Kathleen D."
 description = "ACCUEIL | COMPTABILITE"
-image = "/images/equipe/Katleen-D.jpg"
+image = "/images/equipe/Katleen-D.png"
 
 [[entries]]
 label = "Laetitia P."
 description = "SOIN | CHIRURGIE | ACCUEIL"
-image = "/images/equipe/Laeticia-Porchet_am.jpg"  
+image = "/images/equipe/Laeticia-Porchet_am.png"  
 
 [[entries]]
 label = "Mélanie E."
@@ -71,9 +66,9 @@ image = "/images/equipe/Mélanie-E.png"
 [[entries]]
 label = "Meggie G."
 description = "LOGISTIQUE | ACCUEIL"
-image = "/images/equipe/Meggie-Gagnaire_am.jpg"  
+image = "/images/equipe/Meggie-Gagnaire_am.png"  
 
 [[entries]]
 label = "Stéphanie M."
 description = "SOIN | CHIRURGIE | ACCUEIL"
-image = "/images/equipe/Stephanie-Mousserion.jpg"
+image = "/images/equipe/Stephanie-Mousserion.png"

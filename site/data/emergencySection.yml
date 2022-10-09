@@ -1,10 +1,9 @@
 ---
 enable: true
-topTitle: Urgences
 title: >
-  ## 24h/24 
+  ## Urgences
 
-  En cas **d'urgence vitale uniquement**, il y a un vétérinaire joignable sur une plateforme téléphonique dédiée aux urgences. 
+  En cas **d'urgence vitale uniquement**, contactez-nous au [05.49.73.48.61](tel:05.49.73.48.61). Un vétérinaire régulateur vous donnera des conseils ou un rendez-vous selon le dégré d'urgence.
 steps:
   - content: >
       #### Gardez votre calme
@@ -14,7 +13,7 @@ steps:
   - content: >
       #### [05.49.73.48.61](tel:05.49.73.48.61)
 
-      Le vétérinaire **vous questionnera** et affinera **s'il est nécessaire** que votre animal soit reçu en consultation et vous donnera ensuite l'heure du RDV et l'adresse du vétérinaire de garde parmi les 6 cliniques partenaires (Niort, Oscar, Coteaux, Vanderbecher, Aiffres, la Crèche, AtlanticVet).
+      Le vétérinaire **vous questionnera** et affinera **s'il est nécessaire** que votre animal soit reçu en consultation et vous donnera ensuite l'heure du RDV et l'adresse du vétérinaire de garde parmi les 6 cliniques vétérinaires partenaires (à Niort, Aiffres ou la crèche). [En savoir plus](/urgences/)
     time: téléphonez au
   - content: >
       #### Consignes
