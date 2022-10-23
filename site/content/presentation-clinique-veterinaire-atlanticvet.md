@@ -17,7 +17,7 @@ _________________
 {{< animals >}}
 _________________
 
-{{< icon-heading iconUrl="/images/icons/phonendoscope.svg" label="Des consultations générales" >}}
+{{< icon-heading iconUrl="/images/icons/medecine.svg" label="Des consultations générales" >}}
 - bilan de santé, visite prépubertaire / de croissance, bilan sur votre animal âgé…
 - vaccinations (chiens, chats, chevaux et NAC)
 - identification par  puce électronique  (chiens, chats et NAC)
@@ -25,7 +25,7 @@ _________________
 - conseils en alimentation : nous mettons à votre disposition plusieurs gammes complètes d’aliments (physiologique, spécifique d’une maladie vétérinaire, biologique…)
 
 
-{{< icon-heading iconUrl="/images/icons/hospital-2.svg" label="Des consultations de médecine" >}}
+{{< icon-heading iconUrl="/images/icons/hospi.svg" label="Des consultations de médecine" >}}
 - cardiologie
 - dermatologie
 - gastroentérologie
@@ -37,7 +37,7 @@ _________________
 - imagerie : radiographie numérique, échographie
 - dentisterie…
 
-{{< icon-heading iconUrl="/images/icons/chirurgie.png" label="Des chirurgies" >}}
+{{< icon-heading iconUrl="/images/icons/chir.png" label="Des chirurgies" >}}
 - castrations et stérilisations de chiens, chats, lapins, furet, cheval, âne, bovins  …
 - chirurgie stomatologique, traumatique, en  O.R.L
 - chirurgies abdominales : digestive, urinaire, exérèse de masse abdominale…
