@@ -356,7 +356,7 @@ h5 {
   }
 
   &.service {
-    background-color: #7e7e8a;
+    background-color: #383838;
     &,
     h2,
     p,
@@ -425,21 +425,65 @@ button,
   border-radius: 100px;
   z-index: 9;
 
-  svg{
+  svg {
     width: 70px;
     height: 70px;
   }
 }
 
-.my-img{
+.my-img {
   text-align: center;
-  img{
+  img {
     max-width: 50vw;
   }
 }
 
-section.case-details{
-  p{
+section.case-details {
+  p {
     text-align: justify;
+  }
+}
+
+.sc-banner {
+  .link-wrapper {
+    text-align: center;
+    margin-top: -44px;
+  }
+  .top {
+    background: #1c6586;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 60px;
+  }
+
+  .title-main {
+    font-size: 2rem;
+  }
+  .title-sub {
+    font-size: 1.2rem;
+  }
+
+  a {
+    background: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #1c6586;
+    font-weight: bold;
+  }
+}
+
+.sc-store {
+  .chronovet{
+    text-align: center;
+    img{
+      width:200px;
+    }
+  }
+  img {
+    width: 100px;
   }
 }

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg6670"
-   sodipodi:docname="icone chronovet carré retour nouveau violet.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   sodipodi:docname="icone chronovet carré retour nouveau violet.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:export-filename="/Users/floorent/espace-de-travail/projects/atlanticvet.fr/site/static/images/icons/retrait.png"
+   inkscape:export-xdpi="247"
+   inkscape:export-ydpi="247">
   <defs
      id="defs6664" />
   <sodipodi:namedview
@@ -31,11 +32,13 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1434"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     units="px" />
   <metadata
      id="metadata6667">
     <rdf:RDF>
@@ -53,13 +56,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#800080;fill-opacity:0.81960784;stroke:none;stroke-width:0.03758258;stroke-opacity:1"
+       style="fill:#800080;fill-opacity:0.819608;stroke:none;stroke-width:0.0967715;stroke-opacity:1"
        inkscape:connector-curvature="0"
-       d="m 9.3206834,5.6659195 c -2.3677,0.67649 -4.246831,2.33012 -5.750131,4.9984905 -0.82682,1.5033 -0.82682,1.61605 -0.82682,18.60337 v 17.10007 l 0.93956,1.84155 c 1.05231,2.02946 2.48045,3.42002 4.69783,4.39716 1.39055,0.63891 2.8562696,0.71407 18.1899596,0.71407 12.02643,0 17.10008,-0.11275 18.22756,-0.45099 2.067041,-0.60132 5.186391,-3.72067 5.78771,-5.78772 0.338251,-1.12747 0.45099,-6.16354 0.45099,-18.03963 0,-15.78469 -0.0376,-16.57392 -0.789228,-18.18997 -0.939573,-2.0670505 -2.330122,-3.5703505 -4.284422,-4.6226605 -1.46572,-0.82682 -1.879118,-0.82682 -18.41546,-0.90198 -10.52312,-0.0376 -17.400729,0.0752 -18.2275486,0.33824 z"
+       d="M 21.26623,6.2097175 C 15.169637,7.9516121 10.33106,12.209545 6.460212,19.080335 4.3312325,22.951183 4.3312325,23.241503 4.3312325,66.982166 v 44.030984 l 2.4192738,4.74181 c 2.7095938,5.22566 6.3869137,8.80621 12.0964467,11.32225 3.580528,1.64513 7.354611,1.83866 46.837341,1.83866 30.966864,0 44.031016,-0.29032 46.934166,-1.16126 5.32243,-1.54834 13.35444,-9.58035 14.90278,-14.9028 0.87096,-2.90312 1.16125,-15.870505 1.16125,-46.450258 0,-40.644011 -0.0968,-42.6762 -2.03218,-46.837368 C 124.231,14.241734 120.65048,10.370886 115.61835,7.661292 111.84427,5.5323126 110.77981,5.5323126 68.200358,5.338783 41.104369,5.2419668 23.395208,5.5324156 21.26623,6.2097175 Z"
        id="path3334-0-6-0" />
     <g
        id="g6324"
-       transform="matrix(0.03131762,0,0,-0.03131762,-20.58081,52.56964)"
+       transform="matrix(0.08063976,0,0,-0.08063976,-55.727149,126.98214)"
        style="fill:#ffffff;stroke:none">
       <path
          id="path6316"

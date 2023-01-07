@@ -1,0 +1,15 @@
+{{- $main   := .Get "main" -}}
+{{- $sub   := .Get "sub" -}}
+{{- $url   := .Get "url" -}}
+{{- $link   := .Get "link" -}}
+
+<div class="sc-banner">
+    <div class="top">
+        <div class="title-main">{{- $main -}}</div>
+    <div class="title-sub">{{- $sub -}}</div>
+    </div>
+    
+    <div class="link-wrapper">
+        <a class="link" href="{{- $sub -}}">{{- $link -}}</a>
+    </div>
+</div>
