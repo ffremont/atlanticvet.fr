@@ -5,6 +5,10 @@ theme = "atlanticvet-theme"
 title = "AtlanticVet | Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 # Main Menu
 [[menu.main]]
+name = "Page d'accueil"
+url = ""
+weight = 1
+[[menu.main]]
 name = "Présentation"
 url = "presentation-clinique-veterinaire-atlanticvet"
 weight = 1
@@ -65,7 +69,7 @@ contactLink = "contact"
 contactTel = "0549734861"
 contactTelNiort = "0549734861"
 contactTelBenet = "0251873135"
-copyright = "Tous droits réservés © Florent FREMONT 2022"   
+copyright = "Tous droits réservés © AtlanticVet 2023"   
 description = "Travaillons ensemble pour la santé et le bien-être de vos compagnons"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/mini-logo.png"
