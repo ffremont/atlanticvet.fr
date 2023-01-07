@@ -1,6 +1,6 @@
 ---
 title: "Douleur"
-date: 2021-01-31T06:00:00+01:00
+date: 2022-12-04T05:00:00+01:00
 description: La prise en charge de la douleur chez les chiens, les chats, les NAC et les gros animaux est une préoccupation constante, au sein de notre équipe d’AtlanticVet sur les sites de Niort et Benet.
 featureImage: images/icons/douleur.png
 image: images/icons/douleur.png

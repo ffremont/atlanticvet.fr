@@ -1,6 +1,6 @@
 ---
 title: "Vaccination"
-date: 2021-01-31T06:00:00+01:00
+date: 2023-01-07T06:00:00+01:00
 description:  Chaque année votre animal doit être protégé des maladies contagieuses. Pour cela votre vétérinaire vous reçoit au cours d’un bilan annuel de santé au cours duquel il examine votre animal et évalue son état de santé...
 featureImage: images/icons/vaccin.png
 image: images/icons/vaccin.png

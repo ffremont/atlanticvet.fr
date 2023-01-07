@@ -1,6 +1,6 @@
 ---
 title: "Gastro entérologie"
-date: 2022-10-01T10:00:00+01:00
+date: 2022-12-08T06:00:00+01:00
 description: La gastro-entérologie est une spécialité médicale qui s’intéresse à la prévention, au diagnostic et au traitement non chirurgical des maladies touchant l’appareil digestif et les organes annexes.
 featureImage: images/icons/gastro.png
 image: images/icons/gastro.png

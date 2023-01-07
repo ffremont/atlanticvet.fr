@@ -1,6 +1,6 @@
 ---
 title: "Dermatologie / Otologie"
-date: 2021-01-31T06:00:00+01:00
+date: 2022-12-09T06:00:00+01:00
 description: Vous pouvez venir nous consulter pour toutes les anomalies concernant la peau, les poils et les oreilles de votre compagnon, il sera alors pratiqué une consultation de dermatologie / otologie.
 featureImage: images/icons/derma.png
 image: images/icons/derma.png

@@ -215,8 +215,20 @@ figure.myfigure {
     max-height: 300px;
   }
   img {
-    max-height: 150px;
+    max-height: 250px;
     width: auto;
+  }
+  .blog-preview__item, .blog-page__item{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    .blog-preview__item-content, .blog-page__item-content{
+      position: inherit;
+      bottom:auto;
+      margin-top: -50px;
+    }
   }
 }
 
@@ -394,3 +406,6 @@ button, [type=button], [type=reset], [type=submit]{
     margin-top: -44px;
   }
 }
+
+
+

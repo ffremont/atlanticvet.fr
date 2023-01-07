@@ -1,6 +1,6 @@
 ---
 title: "Echographie"
-date: 2022-10-01T06:00:00+01:00
+date: 2023-01-02T06:00:00+01:00
 description: L’échographie est une technique d’imagerie utilisant les ultrasons. La sonde d’échographie émet et reçoit des ultrasons après qu’ils aient été réfléchis, transmis ou absorbés par les structures étudiées
 featureImage: images/icons/echo.png
 image: images/icons/echo.png

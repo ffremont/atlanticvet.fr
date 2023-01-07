@@ -1,6 +1,6 @@
 ---
 title: "Chirurgie"
-date: 2022-10-01T07:00:00+01:00
+date: 2023-01-05T06:00:00+01:00
 description: La chirurgie constitue une part importante de l’activité d’Atlantic Vet. Les interventions que nous sommes amenés à pratiquer se divisent en trois catégories, la chirurgie de convenance, la chirurgie orthopédique et la chirurgie des tissus mous.
 featureImage: images/icons/chir.png
 image: images/icons/chir.png

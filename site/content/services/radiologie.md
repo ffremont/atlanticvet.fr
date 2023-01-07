@@ -1,6 +1,6 @@
 ---
 title: "Radiologie"
-date: 2021-01-31T06:00:00+01:00
+date: 2023-01-03T06:00:00+01:00
 description: La radiographie reste la technique de choix dans l’exploration des structures osseuses et du thorax.
 featureImage: images/icons/radio.png
 image: images/icons/radio.png

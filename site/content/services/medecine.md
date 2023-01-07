@@ -1,6 +1,6 @@
 ---
 title: "Médecine"
-date: 2021-01-31T06:00:00+01:00
+date: 2023-01-06T06:00:00+01:00
 description: Dans de nombreuses situations (abattement, fièvre, anorexie, apathie, baisse de forme …) nous serons amenés à réaliser une consultation de médecine sur votre animal.
 featureImage: images/icons/medecine.png
 image: images/icons/medecine.png

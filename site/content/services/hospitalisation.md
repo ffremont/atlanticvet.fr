@@ -1,6 +1,6 @@
 ---
 title: "Hospitalisation / Soins"
-date: 2022-10-01T13:00:00+01:00
+date: 2023-01-01T06:00:00+01:00
 description: Un service de soins respectueux du bien-être de votre animal
 featureImage: images/icons/hospi.png
 image: images/icons/hospi.png
