@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg18679"
+   sodipodi:docname="icone hamster vert ancien site.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs18673" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-121.42857"
+     inkscape:cy="539.36341"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata18676">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#85c441;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55505896;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.18632,52.208668 C 18.61055,51.549108 13.52723,48.965228 9.5970495,44.792923 -0.37138048,34.210193 1.1395895,17.652457 12.86214,9.0121365 c 4.67802,-3.448055 10.94629,-5.115517 16.6947,-4.441079 5.24985,0.615945 9.91544,2.781364 13.6744,6.3465495 5.1299,4.865619 7.63105,10.609414 7.61933,17.497753 -0.006,3.907094 -0.6183,6.667402 -2.23261,10.075429 -1.4331,3.025209 -2.89464,5.070586 -5.13,7.179373 -2.27215,2.143345 -3.60222,3.047966 -6.46955,4.400026 -2.63761,1.24368 -4.42496,1.75165 -7.50804,2.13379 -2.35511,0.29189 -2.89209,0.29237 -5.32405,0.005 z"
+       id="path1718-5-6-6-6-4"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#ffffff;stroke:none"
+       transform="matrix(0.14449995,0,0,-0.14449995,217.36824,1442.1996)"
+       id="g11494">
+      <g
+         id="g11476"
+         transform="matrix(0.34615534,0,0,0.34615534,-1502.8385,9669.5932)"
+         style="fill:#ffffff;stroke:none">
+        <path
+           style="fill:#ffffff"
+           id="path11468"
+           d="m 507,660 c -54,-21 -147,-78 -147,-90 0,-10 63,-21 114,-21 64,1 98,-46 60,-83 -8,-9 -23,-16 -32,-15 -13,0 -12,2 4,9 28,11 37,26 29,50 -8,24 -38,34 -65,20 -16,-8 -25,-7 -42,5 -28,19 -100,20 -137,1 C 254,516 213,455 184,375 132,231 170,156 300,150 c 118,-7 153,12 175,95 8,28 14,40 14,28 2,-43 -30,-103 -63,-120 -72,-36 -88,-73 -32,-73 48,0 111,52 137,113 7,16 15,24 18,18 9,-14 139,-26 185,-17 20,4 52,20 71,37 91,80 92,280 2,378 -62,67 -200,91 -300,51 z M 264,396 c -3,-9 -10,-16 -14,-16 -17,0 -21,19 -8,39 10,16 14,18 20,7 5,-8 5,-21 2,-30 z m 115,-18 c -10,-19 -29,-24 -29,-8 0,6 5,19 12,30 16,24 31,4 17,-22 z m -87,-104 23,6 -22,-11 c -15,-8 -23,-21 -23,-37 0,-22 3,-24 35,-20 42,5 47,-7 5,-15 -33,-7 -90,9 -90,26 0,7 4,7 12,-1 19,-19 28,-14 28,18 0,17 -4,30 -10,30 -5,0 -10,5 -10,11 0,8 4,8 15,-1 8,-6 24,-9 37,-6 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff"
+           id="path11470"
+           d="m 241,552 c -17,-32 2,-42 31,-17 15,13 24,26 21,29 -13,12 -43,5 -52,-12 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff"
+           id="path11472"
+           d="m 594,159 c -14,-16 -14,-18 3,-27 23,-12 74,2 95,25 15,17 13,18 -33,19 -35,1 -53,-4 -65,-17 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff"
+           id="path11474"
+           d="m 170,145 c -23,-28 2,-41 51,-26 45,14 43,27 -7,37 -21,4 -34,1 -44,-11 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

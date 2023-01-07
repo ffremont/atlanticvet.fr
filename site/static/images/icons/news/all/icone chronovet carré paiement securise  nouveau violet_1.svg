@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6670"
+   sodipodi:docname="icone chronovet carré paiement securise  nouveau violet.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs6664" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="436.1925"
+     inkscape:cy="823.0109"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3334-8"
+       d="m 9.320683,4.1540103 c -2.3677,0.67649 -4.24683,2.33012 -5.75013,4.99849 C 2.743733,10.6558 2.743733,10.76855 2.743733,27.755874 v 17.10007 l 0.93956,1.84155 c 1.05231,2.02946 2.48045,3.42002 4.69783,4.39716 1.39055,0.63891 2.85627,0.71407 18.18996,0.71407 12.02643,0 17.10008,-0.11275 18.22756,-0.45099 2.067041,-0.60132 5.186391,-3.72067 5.78771,-5.78772 0.338251,-1.12747 0.45099,-6.16354 0.45099,-18.03963 0,-15.784694 -0.0376,-16.573924 -0.789228,-18.1899737 -0.939573,-2.06705 -2.330122,-3.57035 -4.284422,-4.62266 -1.46572,-0.82682 -1.879118,-0.82682 -18.41546,-0.90198 -10.52312,-0.0376 -17.40073,0.0752 -18.22755,0.33824 z"
+       inkscape:connector-curvature="0"
+       style="fill:#800080;fill-opacity:0.81960784;stroke:none;stroke-width:0.03758258;stroke-opacity:1" />
+    <g
+       id="g8047-3-9"
+       transform="matrix(0.67671561,0,0,0.67671561,-2765.8719,-20.870468)"
+       style="fill:#ffffff">
+      <g
+         style="fill:#ffffff;stroke:none"
+         transform="matrix(0.03527778,0,0,-0.03527778,4075.5095,114.69445)"
+         id="g8031-8-6">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 799,1777 c -69,-46 -69,-46 -69,-491 0,-386 1,-399 21,-436 43,-77 27,-75 547,-78 l 462,-3 v -67 c 0,-37 4,-73 8,-80 7,-9 58,-12 223,-10 l 214,3 3,155 c 2,126 0,157 -12,165 -8,6 -16,32 -17,60 -3,41 0,50 14,53 16,3 17,30 17,336 0,323 -1,334 -21,360 -46,58 -22,56 -717,56 H 833 Z m 1339,-62 25,-30 -683,-3 c -376,-1 -685,0 -688,3 -7,7 30,46 53,56 11,4 301,7 643,6 l 624,-2 z m 22,-445 v -171 l -32,37 c -41,46 -83,64 -149,64 -107,0 -177,-71 -187,-188 -3,-37 -11,-73 -19,-80 -7,-7 -13,-33 -13,-58 v -44 h -455 c -502,0 -492,-1 -514,62 -7,19 -11,131 -11,289 v 259 h 690 690 z m -121,-148 c 46,-25 72,-75 69,-132 l -3,-45 -122,-3 -123,-3 v 53 c 0,64 27,113 73,133 43,19 66,18 106,-3 z"
+           id="path8025-6-2"
+           style="fill:#ffffff" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 822,1343 3,-38 h 380 380 l 3,38 3,37 H 1205 819 Z"
+           id="path8027-0-3"
+           style="fill:#ffffff" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 830,1070 v -40 h 185 185 v 40 40 H 1015 830 Z"
+           id="path8029-2-5"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

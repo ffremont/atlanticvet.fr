@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6670"
+   sodipodi:docname="bandeau chronovet visiter ici.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs6664" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="926.99976"
+     inkscape:cy="509.64918"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7843"
+       transform="matrix(0.86110744,0,0,0.86110744,-3303.7756,-99.37258)"
+       style="stroke:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7838"
+         d="m 3962.2758,169.16894 c -60.6568,-0.49624 -90.4472,-1.04681 -98.1662,-1.81425 -8.3511,-0.83025 -12.2092,-2.74874 -13.3668,-6.64665 -0.6309,-2.12555 -0.5855,-6.18168 0.1229,-10.92387 1.5115,-10.11898 3.8888,-14.71882 8.8569,-17.13811 2.6644,-1.29731 6.428,-2.37972 10.4537,-3.00629 4.5204,-0.70356 22.7288,-1.06318 44.8955,-0.88669 10.2526,0.0816 37.786,0.28459 61.1849,0.45102 43.4671,0.30918 62.8095,0.65303 67.9249,1.20753 6.4974,0.70424 12.2563,2.81272 14.4312,5.28358 1.5867,1.80264 2.1302,3.65634 2.1302,7.26487 0,8.3128 -2.4853,16.58969 -6.0524,20.15682 -2.6863,2.68649 -7.7988,4.69509 -14.3925,5.65468 -4.0587,0.59064 -35.084,0.74865 -78.0223,0.39736 z"
+         style="opacity:1;fill:#85c441;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36380208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83807945px;line-height:1.25;font-family:'Choco Letter';-inkscape-font-specification:'Choco Letter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49595195"
+         x="3859.3743"
+         y="159.07034"
+         id="text7753"><tspan
+           sodipodi:role="line"
+           id="tspan7751"
+           x="3859.3743"
+           y="159.07034"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83807945px;font-family:'Choco Letter';-inkscape-font-specification:'Choco Letter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.49595195">VisitEr chrOnOvEt ici</tspan></text>
+    </g>
+  </g>
+</svg>

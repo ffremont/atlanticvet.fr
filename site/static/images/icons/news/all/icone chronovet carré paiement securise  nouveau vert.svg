@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6670"
+   sodipodi:docname="icone chronovet carré paiement securise  nouveau vert.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs6664" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="436.1925"
+     inkscape:cy="823.0109"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3334-1-1"
+       d="m 9.535882,8.1884446 c -2.367709,0.67648 -4.246849,2.3301204 -5.75014,4.9984804 -0.826839,1.5033 -0.826839,1.61605 -0.826839,18.603384 v 17.10007 l 0.939589,1.84155 c 1.052301,2.02946 2.48045,3.42001 4.697801,4.39716 1.390579,0.6389 2.856299,0.71407 18.189959,0.71407 12.026442,0 17.1001,-0.11275 18.227572,-0.45099 2.067028,-0.60133 5.186398,-3.72068 5.787708,-5.78773 0.33824,-1.12747 0.45099,-6.16353 0.45099,-18.03963 0,-15.784684 -0.0376,-16.573914 -0.78923,-18.189974 -0.93956,-2.06704 -2.33014,-3.5703404 -4.28442,-4.6226504 -1.465718,-0.82682 -1.879098,-0.82682 -18.415458,-0.90199 -10.523112,-0.0376 -17.400731,0.0752 -18.227532,0.33825 z"
+       inkscape:connector-curvature="0"
+       style="fill:#00d700;fill-opacity:0.81960784;stroke:none;stroke-width:0.03758258;stroke-opacity:1" />
+    <g
+       id="g8047-3-9-4"
+       transform="matrix(0.67671561,0,0,0.67671561,-2765.6653,-17.988928)"
+       style="fill:#ffffff">
+      <g
+         style="fill:#ffffff;stroke:none"
+         transform="matrix(0.03527778,0,0,-0.03527778,4075.5095,114.69445)"
+         id="g8031-8-6-3">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 799,1777 c -69,-46 -69,-46 -69,-491 0,-386 1,-399 21,-436 43,-77 27,-75 547,-78 l 462,-3 v -67 c 0,-37 4,-73 8,-80 7,-9 58,-12 223,-10 l 214,3 3,155 c 2,126 0,157 -12,165 -8,6 -16,32 -17,60 -3,41 0,50 14,53 16,3 17,30 17,336 0,323 -1,334 -21,360 -46,58 -22,56 -717,56 H 833 Z m 1339,-62 25,-30 -683,-3 c -376,-1 -685,0 -688,3 -7,7 30,46 53,56 11,4 301,7 643,6 l 624,-2 z m 22,-445 v -171 l -32,37 c -41,46 -83,64 -149,64 -107,0 -177,-71 -187,-188 -3,-37 -11,-73 -19,-80 -7,-7 -13,-33 -13,-58 v -44 h -455 c -502,0 -492,-1 -514,62 -7,19 -11,131 -11,289 v 259 h 690 690 z m -121,-148 c 46,-25 72,-75 69,-132 l -3,-45 -122,-3 -123,-3 v 53 c 0,64 27,113 73,133 43,19 66,18 106,-3 z"
+           id="path8025-6-2-1"
+           style="fill:#ffffff" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 822,1343 3,-38 h 380 380 l 3,38 3,37 H 1205 819 Z"
+           id="path8027-0-3-6"
+           style="fill:#ffffff" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 830,1070 v -40 h 185 185 v 40 40 H 1015 830 Z"
+           id="path8029-2-5-9"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

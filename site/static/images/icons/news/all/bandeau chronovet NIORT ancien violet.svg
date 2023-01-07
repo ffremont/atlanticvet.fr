@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6670"
+   sodipodi:docname="bandeau chronovet NIORT ancien violet.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs6664" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1327.7453"
+     inkscape:cy="537.29662"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#660e3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.22028694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.202589,44.917711 c -22.23962,-0.49625 -33.16215,-1.04682 -35.99228,-1.81424 -3.06192,-0.83027 -4.47647,-2.74876 -4.90089,-6.64665 -0.23131,-2.12556 -0.21467,-6.18168 0.045,-10.92388 0.55419,-10.11897 1.42581,-14.71883 3.24737,-17.1380996 0.97687,-1.29733 2.3568,-2.37974 3.83282,-3.0063 1.65736,-0.70355 8.3334,-1.06317 16.46074,-0.8867 3.75907,0.0816 13.8541,0.28459 22.43323,0.45104 15.93702,0.30916 23.02885,0.65302 24.90439,1.20753 2.38224,0.70424 4.49375,2.81271 5.29114,5.2835696 0.58174,1.80263 0.78104,3.65633 0.78104,7.26488 0,8.31278 -0.91122,16.58969 -2.21909,20.1568 -0.98494,2.6865 -2.85941,4.69509 -5.27696,5.65468 -1.48811,0.59065 -12.86342,0.74866 -28.60656,0.39737 z"
+       id="path7838-09-6-9-7"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text7753-4-3-0-9"
+       y="34.819164"
+       x="18.221523"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83807945px;line-height:1.25;font-family:'Choco Letter';-inkscape-font-specification:'Choco Letter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49595195;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.83807945px;font-family:'Choco Letter';-inkscape-font-specification:'Choco Letter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.49595195;stroke-opacity:1"
+         y="34.819164"
+         x="18.221523"
+         id="tspan7751-7-3-21-4"
+         sodipodi:role="line">NIORT</tspan></text>
+  </g>
+</svg>

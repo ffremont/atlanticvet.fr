@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6670"
+   sodipodi:docname="icone chronovet carré commande en ligne nouveau vert.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs6664" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="436.1925"
+     inkscape:cy="823.0109"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6667">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00d700;fill-opacity:0.81960784;stroke:none;stroke-width:0.03758258;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 11.047787,5.9205871 c -2.3677093,0.67648 -4.2468493,2.33012 -5.7501403,4.9984799 -0.826839,1.5033 -0.826839,1.61605 -0.826839,18.60338 v 17.10007 l 0.939589,1.84155 c 1.052301,2.02946 2.48045,3.42001 4.6978013,4.39716 1.390579,0.6389 2.856299,0.71407 18.189959,0.71407 12.026442,0 17.1001,-0.11275 18.227572,-0.45099 2.067028,-0.60133 5.186398,-3.72068 5.787708,-5.78772 0.33824,-1.12748 0.45099,-6.16354 0.45099,-18.03964 0,-15.78468 -0.0376,-16.57391 -0.78923,-18.18997 -0.93956,-2.0670399 -2.33014,-3.5703399 -4.28442,-4.6226499 -1.465718,-0.82682 -1.879098,-0.82682 -18.415458,-0.90199 -10.523112,-0.0376 -17.400731,0.0752 -18.227532,0.33825 z"
+       id="path3334-1-87-5" />
+    <g
+       id="g6252-0"
+       transform="matrix(0.67441929,0,0,0.67441929,162.52301,-506.3292)"
+       style="fill:#ffffff">
+      <g
+         style="fill:#ffffff;stroke:none"
+         transform="matrix(0.01763889,0,0,-0.01763889,-241.70614,825.41037)"
+         id="g6238-4">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 880,3123 C 722,3038 731,3106 724,1922 l -5,-1055 45,-66 c 103,-151 101,-150 667,-157 280,-3 509,-12 509,-19 0,-7 -15,-65 -33,-129 l -32,-116 h -135 c -128,0 -186,-27 -145,-68 15,-16 1575,-16 1590,0 41,41 -17,68 -145,68 h -135 l -32,116 c -18,64 -33,122 -33,129 0,7 229,16 509,19 566,7 564,6 667,157 l 45,66 -5,1055 c -7,1184 2,1116 -156,1201 -107,57 -2913,57 -3020,0 z m 2963,-176 c 35,-31 37,-86 37,-910 V 1160 H 2390 900 v 873 c 0,785 3,878 33,910 49,54 2851,58 2910,4 z M 3880,941 C 3880,815 3936,820 2390,820 844,820 900,815 900,941 v 59 H 2390 3880 Z M 2698,491 c 12,-49 22,-94 22,-100 0,-6 -148,-11 -330,-11 -181,0 -330,5 -330,11 0,6 10,51 22,100 l 23,89 h 285 285 z"
+           id="path6234-3"
+           style="fill:#ffffff" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 1373,2707 c -7,-8 -13,-30 -13,-50 0,-38 20,-46 189,-72 92,-15 101,-21 117,-85 42,-162 159,-569 215,-740 54,-168 57,-189 30,-219 -45,-50 -38,-108 19,-161 63,-59 146,-39 186,45 l 26,55 h 329 c 216,0 329,-7 329,-21 0,-32 94,-119 130,-119 102,0 155,137 81,210 l -48,49 -449,-13 c -261,-7 -452,-5 -459,6 -5,10 -17,47 -24,83 l -14,65 h 478 478 l 31,115 c 86,316 121,488 104,504 -10,9 -310,45 -668,81 -357,35 -651,65 -651,67 -1,2 -15,39 -31,83 -29,78 -34,81 -159,104 -150,28 -207,31 -226,13 z m 1052,-381 c 463,-45 555,-60 555,-85 -1,-17 -22,-112 -47,-211 l -46,-180 -452,-5 -453,-6 -44,146 c -97,325 -113,395 -90,395 12,1 272,-24 577,-54 z"
+           id="path6236-1"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>
