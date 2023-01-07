@@ -158,7 +158,7 @@ figure.myfigure {
 }
 
 @media (max-width: 768px) {
-  .footer {
+  .takePhone {
     a + a {
       margin-top: 10px;
     }
@@ -166,7 +166,7 @@ figure.myfigure {
 }
 
 @media (min-width: 990px) {
-  .footer {
+  .takePhone {
     a + a {
       margin-top: 10px;
     }
@@ -344,17 +344,19 @@ h5 {
     }
   }
 
-  &.about {
+  &.service {
     background-color: #7e7e8a;
     &,
-    h2 {
-      color: white;
+    h2,p,a {
+      color: white ;
+      border-color:white;
     }
 
-    .about_content-inner {
+
+    .service__background_shape {
       background: white;
       &,
-      p,
+      p, a,
       h3 {
         color: #7e7e8a;
       }
@@ -385,4 +387,10 @@ h1,h2{
 
 button, [type=button], [type=reset], [type=submit]{
   -webkit-appearance: none !important;
+}
+
+.takePhone{
+  .footer__cta{
+    margin-top: -44px;
+  }
 }

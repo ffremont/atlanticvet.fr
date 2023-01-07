@@ -57,7 +57,7 @@ Si le diagnostic requiert un examen histologique des biopsies cutanées sont ré
 ### Examen mycologique
 
  
-En cas de suspicion de mycose (en particulier de teigne) chez le chat, le chien ou le cheval, un prélèvement de poils est envoyé en laboratoire spécialisé de mycologie pour une mise en culture.  Un examen en lumière de Wood (lampe à ultra-violets dans une pièce obscure) est souvent réalisé avant la mise en culture. Le laboratoire envoie les résultats 12 à 15  jours plus tard, confirmant ou non la présence d’une dermatophytie sur l’animal. Les infections fongiques (teignes) doivent être rapidement diagnostiquées, puisqu’elles sont transmissibles à l’homme (zoonose).
+En cas de suspicion de mycose (en particulier de teigne) chez le chat, le chien, un prélèvement de poils est envoyé en laboratoire spécialisé de mycologie pour une mise en culture.  Un examen en lumière de Wood (lampe à ultra-violets dans une pièce obscure) est souvent réalisé avant la mise en culture. Le laboratoire envoie les résultats 12 à 15  jours plus tard, confirmant ou non la présence d’une dermatophytie sur l’animal. Les infections fongiques (teignes) doivent être rapidement diagnostiquées, puisqu’elles sont transmissibles à l’homme (zoonose).
 
 
 {{< myfigure 

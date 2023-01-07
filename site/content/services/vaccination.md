@@ -40,7 +40,6 @@ C’est aussi l’occasion de l’identifier avec une puce électronique au cour
 
 * Chiens : Hépatite de rubarth, toux du chenil, parvovirose, leptospirose, herpesvirose, rage, piroplasmose, maladie de carré, leishmaniose
 * Chats : Typhus, coryza, leucose, rage
-* Chevaux : Tétanos, grippe, rhinopneumonie, rage
 * Lapins : Myxomatose, virus rhd
 * Furets : Maladie de Carré
 

@@ -19,7 +19,7 @@ _________________
 
 {{< icon-heading iconUrl="/images/icons/medecine.svg" label="Des consultations générales" >}}
 - bilan de santé, visite prépubertaire / de croissance, bilan sur votre animal âgé…
-- vaccinations (chiens, chats, chevaux et NAC)
+- vaccinations (chiens, chats et NAC)
 - identification par  puce électronique  (chiens, chats et NAC)
 - conseils pour vous aider à traiter les parasites externes et internes (puces, vers, tiques…) de vos - chiens, chats, furets...
 - conseils en alimentation : nous mettons à votre disposition plusieurs gammes complètes d’aliments (physiologique, spécifique d’une maladie vétérinaire, biologique…)
@@ -38,7 +38,7 @@ _________________
 - dentisterie…
 
 {{< icon-heading iconUrl="/images/icons/chir.png" label="Des chirurgies" >}}
-- castrations et stérilisations de chiens, chats, lapins, furet, cheval, âne, bovins  …
+- castrations et stérilisations de chiens, chats, lapins, furet  …
 - chirurgie stomatologique, traumatique, en  O.R.L
 - chirurgies abdominales : digestive, urinaire, exérèse de masse abdominale…
 - chirurgie faciale : oreilles, narines …
@@ -54,7 +54,7 @@ _________________
 - 5 salles de consultations
 - 1 échographe
 - 1 radiographie numérique
-- 1 blocs opératoire
+- 1 bloc opératoire
 - 3 zones d’hospitalisation (salle de réveil, salle d’hospitalisation de long séjour chiens et chats distincts et salle d’hospitalisation des animaux contagieux),
 - 8 vétérinaires sur le site
 - 16 personnes pour l’équipe au total
@@ -63,4 +63,4 @@ _________________
 - La Clinique Vétérinaire Atanticvet a été créée en 1968
 - En 2009, le cabinet vétérinaire de Benet a été construit
 - En 2015, l’intégralité de la clinique de Niort a été rénovée et agrandit
-- En 2022, des travaux sont réalisés sur Niort et Benet pour ajouter 1 salle de consultation supplémentaire dans chacun des 2 sites.
+- En 2023, des travaux sont réalisés sur Niort et Benet pour ajouter 1 salle de consultation supplémentaire dans chacun des 2 sites.
