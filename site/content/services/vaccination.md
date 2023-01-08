@@ -43,7 +43,7 @@ C’est aussi l’occasion de l’identifier avec une puce électronique au cour
 * Lapins : Myxomatose, virus rhd
 * Furets : Maladie de Carré
 
-## N’hésitez pas à nous faire part de toutes les questions que vous vous êtes posées au courant de l’année lors de cette consultation vaccinale nous serons ravis de vous répondre.
+**N’hésitez pas à nous faire part de toutes les questions que vous vous êtes posées au courant de l’année lors de cette consultation vaccinale nous serons ravis de vous répondre.**
 
 
 
