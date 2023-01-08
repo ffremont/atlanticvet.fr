@@ -32,7 +32,7 @@ _________________
 {{< animals >}}
 _________________
 
-{{< icon-heading iconUrl="/images/icons/medecine.svg" label="Des consultations générales" >}}
+{{< icon-heading iconUrl="/images/icons/medecine.png" label="Des consultations générales" >}}
 - bilan de santé, visite prépubertaire / de croissance, bilan sur votre animal âgé…
 - vaccinations
 - identification par  puce électronique
@@ -40,7 +40,7 @@ _________________
 - conseils en alimentation : nous mettons à votre disposition plusieurs gammes complètes d’aliments, avec un système de [commandes en ligne](/boutique-en-ligne)
 
 
-{{< icon-heading iconUrl="/images/icons/hospi.svg" label="Des consultations de médecine" >}}
+{{< icon-heading iconUrl="/images/icons/hospi.png" label="Des consultations de médecine" >}}
 - cardiologie
 - dermatologie
 - gastroentérologie

@@ -189,8 +189,6 @@ images:
   url: /images/gallery/nos_patients/FB_IMG_1665317436450.jpg
 - alt: FB_IMG_1665317438368
   url: /images/gallery/nos_patients/FB_IMG_1665317438368.jpg
-- alt: FB_IMG_1665317454539
-  url: /images/gallery/nos_patients/FB_IMG_1665317454539.jpg
 - alt: FB_IMG_1665317464109
   url: /images/gallery/nos_patients/FB_IMG_1665317464109.jpg
 - alt: FB_IMG_1665317466796

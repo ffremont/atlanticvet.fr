@@ -49,8 +49,6 @@ images:
   url: /images/gallery/notre-equipe-en-action/20180919_182256.jpg
 - alt: 20190606_105855
   url: /images/gallery/notre-equipe-en-action/20190606_105855.jpg
-- alt: 20190606_105856
-  url: /images/gallery/notre-equipe-en-action/20190606_105856.jpg
 - alt: 20190926_184720
   url: /images/gallery/notre-equipe-en-action/20190926_184720.jpg
 - alt: 20190926_184743
@@ -75,12 +73,8 @@ images:
   url: /images/gallery/notre-equipe-en-action/2020-12-03 19.18.54.jpg
 - alt: 20200228_125420
   url: /images/gallery/notre-equipe-en-action/20200228_125420.jpg
-- alt: 20200313_103431
-  url: /images/gallery/notre-equipe-en-action/20200313_103431.jpg
 - alt: 20200313_103651
   url: /images/gallery/notre-equipe-en-action/20200313_103651.jpg
-- alt: 20200313_103837
-  url: /images/gallery/notre-equipe-en-action/20200313_103837.jpg
 - alt: 2021-02-05 17.24.36
   url: /images/gallery/notre-equipe-en-action/2021-02-05 17.24.36.jpg
 - alt: 2021-06-08 16.41.14
@@ -133,8 +127,6 @@ images:
   url: /images/gallery/notre-equipe-en-action/20221003_173407.jpg
 - alt: 20221003_225720
   url: /images/gallery/notre-equipe-en-action/20221003_225720.jpg
-- alt: 20221004_004802
-  url: /images/gallery/notre-equipe-en-action/20221004_004802.jpg
 - alt: 24252025_10214960391389030_265825858_n
   url: /images/gallery/notre-equipe-en-action/24252025_10214960391389030_265825858_n.jpg
 - alt: 25be05198df56086711fa7d8001b3a6f.0
@@ -213,8 +205,6 @@ images:
   url: /images/gallery/notre-equipe-en-action/Resized_20180629_190849.jpeg
 - alt: Resized_received_16912162076021031
   url: /images/gallery/notre-equipe-en-action/Resized_received_16912162076021031.jpg
-- alt: Screenshot_20220925-231612_Messenger
-  url: /images/gallery/notre-equipe-en-action/Screenshot_20220925-231612_Messenger.jpg
 - alt: Screenshot_20221004_005754
   url: /images/gallery/notre-equipe-en-action/Screenshot_20221004_005754.jpg
 - alt: Screenshot_20221004_010455
