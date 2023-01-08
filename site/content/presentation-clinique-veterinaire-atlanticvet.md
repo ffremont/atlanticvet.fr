@@ -4,9 +4,15 @@ date: 2022-10-01T06:00:00+01:00
 description: Présentation de la clinique AtlanticVet
 ---
 
-### Atlantic vet : une clinique pour vos animaux de compagnie et vos animaux d’élevage à Niort et à Benet.
+{{< img url="/images/logo.png" alt="atlantivet logo" >}}
 
-**ATLANTIC VET** (Niort 79 et Benet 85) est un établissement vétérinaire où tout est mis en œuvre pour prodiguer des soins de qualité à votre animal de compagnie tout en veillant à son bien-être. Comme dans toute clinique vétérinaire vous pouvez être amenés à nous consulter pour des actes simples ou pour des problèmes de santé plus complexes, et vous bénéficiez également d’un service d’urgences téléphonique ouvert 24h/24 et 7 jours/7 assuré par un vétérinaire (attention : vous pouvez être amené à aller dans une autre clinique en urgence).
+#### Une équipe de 8 vétérinaires et 7 assistantes réunie sur Niort et Benet
+
+  Vous pouvez être amenés à nous consulter pour des actes simples ou pour des problèmes de santé plus complexes. 
+
+Nous prodigons des soins de qualité à votre animal de compagnie tout en veillant à son bien-être.
+
+Pour les urgences vitales, nous vous proposons un service téléphonique ouvert 24h/24 et 7j/7.  [En savoir plus.](/urgences)
 
 
 ### Un service de qualité à proximité
@@ -47,7 +53,7 @@ _________________
 - chirurgie en ophtalmologie : chirurgie des paupières, ulcères cornéens, énucléations …
 - chirurgie obstétrique : césarienne petits, ovario-hysterectomie….
 
-{{< icon-heading iconUrl="/images/icons/computer-1.svg" label="Les chiffres-clés" >}}
+{{< icon-heading iconUrl="/images/icons/conseil.png" label="Les chiffres-clés" >}}
 - plus de 500 m2 au service de la santé de nos animaux de compagnie
 - 30 places de parking
 - plus de 100 m2 pour le hall d’accueil et d’attente
@@ -59,7 +65,7 @@ _________________
 - 8 vétérinaires sur le site
 - 16 personnes pour l’équipe au total
 
-{{< icon-heading iconUrl="/images/icons/calendar-2.svg" label="Les dates-clés" >}}
+{{< icon-heading iconUrl="/images/icons/calendar.png" label="Les dates-clés" >}}
 - La Clinique Vétérinaire Atanticvet a été créée en 1968
 - En 2009, le cabinet vétérinaire de Benet a été construit
 - En 2015, l’intégralité de la clinique de Niort a été rénovée et agrandit

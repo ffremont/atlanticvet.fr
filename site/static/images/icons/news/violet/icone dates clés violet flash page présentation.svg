@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg9832"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="icone dates clés violet flash page présentation.svg">
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="icone dates clés violet flash page présentation.svg"
+   inkscape:export-filename="/Users/floorent/espace-de-travail/projects/atlanticvet.fr/site/static/images/icons/calendar.png"
+   inkscape:export-xdpi="247"
+   inkscape:export-ydpi="247">
   <defs
      id="defs9826" />
   <sodipodi:namedview
@@ -31,11 +32,13 @@
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1434"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     units="px" />
   <metadata
      id="metadata9829">
     <rdf:RDF>
@@ -59,13 +62,13 @@
       <g
          id="g1721-6-5-5-6-5"
          transform="matrix(5.4463921,0,0,-5.4463921,-4830.8415,10922.362)"
-         style="opacity:1;fill:#800080;fill-opacity:0.81960784;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         style="opacity:1;fill:#800080;fill-opacity:0.819608;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            transform="scale(0.26458333)"
            inkscape:connector-curvature="0"
            id="path1718-5-67-2-2-6-72"
            d="M 466.50246,416.60291 C 428.53557,412.11186 393.9216,394.51755 367.16058,366.10737 299.2832,294.04701 309.57133,181.30146 389.39294,122.46748 421.24698,98.988876 463.92921,87.634705 503.07146,92.227139 c 35.74745,4.194132 67.5168,18.938941 93.11188,43.215151 34.93114,33.13117 51.962,72.24201 51.88245,119.14636 -0.0452,26.60433 -4.21021,45.39991 -15.20302,68.60597 -9.75801,20.59938 -19.70982,34.52681 -34.93141,48.88607 -15.47098,14.59455 -24.52805,20.75439 -44.05267,29.96084 -17.95961,8.46848 -30.13011,11.92733 -51.12411,14.52941 -16.0362,1.98759 -19.69228,1.99081 -36.25212,0.0319 z"
-           style="opacity:1;fill:#800080;fill-opacity:0.81960784;fill-rule:nonzero;stroke:none;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#800080;fill-opacity:0.819608;fill-rule:nonzero;stroke:none;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          id="g12419-4"
@@ -141,17 +144,17 @@
     <g
        style="fill:#000000;stroke:none"
        id="g12662-9"
-       transform="matrix(0.10191314,0,0,-0.10191314,452.82845,1105.884)">
+       transform="matrix(0.2559961,0,0,-0.2559961,1124.5756,2768.0497)">
       <g
          id="g1721-6-5-5-6-5-0"
          transform="matrix(5.4463921,0,0,-5.4463921,-4830.8415,10922.362)"
-         style="opacity:1;fill:#800080;fill-opacity:0.81960784;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         style="opacity:1;fill:#800080;fill-opacity:0.819608;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            transform="scale(0.26458333)"
            inkscape:connector-curvature="0"
            id="path1718-5-67-2-2-6-72-8"
            d="M 466.50246,416.60291 C 428.53557,412.11186 393.9216,394.51755 367.16058,366.10737 299.2832,294.04701 309.57133,181.30146 389.39294,122.46748 421.24698,98.988876 463.92921,87.634705 503.07146,92.227139 c 35.74745,4.194132 67.5168,18.938941 93.11188,43.215151 34.93114,33.13117 51.962,72.24201 51.88245,119.14636 -0.0452,26.60433 -4.21021,45.39991 -15.20302,68.60597 -9.75801,20.59938 -19.70982,34.52681 -34.93141,48.88607 -15.47098,14.59455 -24.52805,20.75439 -44.05267,29.96084 -17.95961,8.46848 -30.13011,11.92733 -51.12411,14.52941 -16.0362,1.98759 -19.69228,1.99081 -36.25212,0.0319 z"
-           style="opacity:1;fill:#800080;fill-opacity:0.81960784;fill-rule:nonzero;stroke:none;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#800080;fill-opacity:0.819608;fill-rule:nonzero;stroke:none;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          id="g12419-4-8"
