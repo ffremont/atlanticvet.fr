@@ -22,11 +22,11 @@ url = "equipe/atlanticvet"
 weight = 3
 [[menu.main]]
 name = "Galerie"
-url = "#galerie"
+url = "galerie"
 weight = 4
 [[menu.main]]
 name = "Urgences"
-url = "/urgences/"
+url = "urgences"
 weight = 5
 [[menu.main]]
 name = "Infos pratiques"
