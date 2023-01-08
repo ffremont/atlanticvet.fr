@@ -34,10 +34,10 @@ _________________
 
 {{< icon-heading iconUrl="/images/icons/medecine.svg" label="Des consultations générales" >}}
 - bilan de santé, visite prépubertaire / de croissance, bilan sur votre animal âgé…
-- vaccinations (chiens, chats et NAC)
-- identification par  puce électronique  (chiens, chats et NAC)
-- conseils pour vous aider à traiter les parasites externes et internes (puces, vers, tiques…) de vos - chiens, chats, furets...
-- conseils en alimentation : nous mettons à votre disposition plusieurs gammes complètes d’aliments (physiologique, spécifique d’une maladie vétérinaire, biologique…)
+- vaccinations
+- identification par  puce électronique
+- conseils pour vous aider à traiter les parasites externes et internes (puces, vers, tiques…)
+- conseils en alimentation : nous mettons à votre disposition plusieurs gammes complètes d’aliments, avec un système de [commandes en ligne](/boutique-en-ligne)
 
 
 {{< icon-heading iconUrl="/images/icons/hospi.svg" label="Des consultations de médecine" >}}
@@ -53,29 +53,28 @@ _________________
 - dentisterie…
 
 {{< icon-heading iconUrl="/images/icons/chir.png" label="Des chirurgies" >}}
-- castrations et stérilisations de chiens, chats, lapins, furet  …
-- chirurgie stomatologique, traumatique, en  O.R.L
-- chirurgies abdominales : digestive, urinaire, exérèse de masse abdominale…
+- stérilisations
+- chirurgies abdominales
 - chirurgie faciale : oreilles, narines …
-- chirurgie cutanée : exérèse de masses cutanées, biopsies…
-- chirurgie oncologique : exérèse de tumeurs mammaires…
-- chirurgie en ophtalmologie : chirurgie des paupières, ulcères cornéens, énucléations …
-- chirurgie obstétrique : césarienne petits, ovario-hysterectomie….
+- chirurgie cutanée : masses cutanées, biopsies…
+- chirurgie oncologique : tumeurs mammaires…
+- chirurgie en ophtalmologie : chirurgie des paupières, ulcères cornéens …
+- chirurgie obstétrique : césarienne...
 
 {{< icon-heading iconUrl="/images/icons/conseil.png" label="Les chiffres-clés" >}}
-- plus de 500 m2 au service de la santé de nos animaux de compagnie
+- + de 500 m2
 - 30 places de parking
-- plus de 100 m2 pour le hall d’accueil et d’attente
+- + de 100 m2 pour le hall d’accueil et d’attente
 - 5 salles de consultations
 - 1 échographe
 - 1 radiographie numérique
 - 1 bloc opératoire
-- 3 zones d’hospitalisation (salle de réveil, salle d’hospitalisation de long séjour chiens et chats distincts et salle d’hospitalisation des animaux contagieux),
-- 8 vétérinaires sur le site
-- 16 personnes pour l’équipe au total
+- 3 zones d’hospitalisation
+- 8 vétérinaires
+- 7 assistantes
 
 {{< icon-heading iconUrl="/images/icons/calendar.png" label="Les dates-clés" >}}
-- La Clinique Vétérinaire Atanticvet a été créée en 1968
-- En 2009, le cabinet vétérinaire de Benet a été construit
-- En 2015, l’intégralité de la clinique de Niort a été rénovée et agrandit
-- En 2023, des travaux sont réalisés sur Niort et Benet pour ajouter 1 salle de consultation supplémentaire dans chacun des 2 sites.
+- Création de Niort en 1968
+- Création de Benet en 2009
+- Rénovation et agrandissement de Niort en 2015
+- Salle de consultation supplémentaire dans chacun des 2 sites en 2023
