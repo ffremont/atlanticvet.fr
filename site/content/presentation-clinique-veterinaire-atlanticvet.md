@@ -6,13 +6,22 @@ description: Présentation de la clinique AtlanticVet
 
 {{< img url="/images/logo.png" alt="atlantivet logo" >}}
 
-#### Une équipe de 8 vétérinaires et 7 assistantes réunie sur Niort et Benet
+{{< heading4 text="Une équipe de 8 vétérinaires et 7 assistantes sur Niort et Benet" >}}
 
-  Vous pouvez être amenés à nous consulter pour des actes simples ou pour des problèmes de santé plus complexes. 
+
+{{< blog-section >}}
+
+Vous pouvez être amenés à nous consulter pour des actes simples ou pour des problèmes de santé plus complexes. 
 
 Nous prodigons des soins de qualité à votre animal de compagnie tout en veillant à son bien-être.
 
-Pour les urgences vitales, nous vous proposons un service téléphonique ouvert 24h/24 et 7j/7.  [En savoir plus.](/urgences)
+Pour les urgences vitales, nous vous proposons un service téléphonique ouvert 24h/24 et 7j/7.  
+[En savoir plus.](/urgences)
+
+
+{{< /blog-section >}}
+
+
 
 
 ### Un service de qualité à proximité
