@@ -5,7 +5,7 @@ description: Commandez vos produits vétérinaires de qualité depuis la platefo
 ---
 
 
-{{< banner url="https://www.chronovet.fr" link="www.chronovet.fr" main="Optez pour le click and collect." sub="Commandez vos croquettes au prix web sur conseils de votre vétérinaire.">}}
+{{< banner url="https://www.chronovet.fr/" link="Commander sur chronovet.fr" main="Optez pour le click and collect." sub="Commandez vos croquettes au prix web sur conseils de votre vétérinaire.">}}
 
 {{< store >}}
 

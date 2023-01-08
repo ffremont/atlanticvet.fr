@@ -7,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256"
-   height="256"
-   viewBox="0 0 67.733332 67.733335"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg6670"
    sodipodi:docname="-icone chronovet abonnement vieux violet.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   inkscape:export-filename="/Users/floorent/espace-de-travail/projects/atlanticvet.fr/site/static/images/icons/abo.png"
+   inkscape:export-xdpi="247"
+   inkscape:export-ydpi="247">
   <defs
      id="defs6664" />
   <sodipodi:namedview
@@ -55,7 +58,7 @@
     <g
        id="g2918"
        style="fill:#800080;fill-opacity:0.819608"
-       transform="matrix(1.6801401,0,0,1.6801401,-252.56052,-323.12114)">
+       transform="matrix(3.6568773,0,0,3.6568773,-556.39411,-708.29814)">
       <g
          style="fill:#800080;fill-opacity:0.819608;stroke:none;stroke-opacity:1"
          transform="matrix(0.01014376,0,0,-0.01014376,152.13231,235.4101)"
