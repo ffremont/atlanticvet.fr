@@ -11,11 +11,12 @@ Sur le **e-carnet** vous pouvez accéder pour chacun de vos animaux aux suivis d
 - duplicata 
 - analyses sanguines
 - radios (délai d'un mois après l'examen)
-- analyses histologique
-- analyses urinaire
+- analyses histologiques
+- analyses urinaires
 
 Utilisez l’interface en lien ci-dessous pour vous connecter à votre compte client.  
 Si vous ne disposez pas de votre identifiant, [contactez-nous](/#takePhone).  
 
 
-{{< big-link url="/ecarnet/myvetapps/" label="Y accéder" >}}
+**e-carnet accessible uniquement par ordinateur (inutilisable sur smartphone)**
+{{< big-link url="/ecarnet/myvetapps/" label="Y accéder (sur ordinateur)" >}}

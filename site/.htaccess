@@ -1,0 +1,9 @@
+Options -Indexes
+Redirect /prendre-un-rendez-vous/ /contact/
+Redirect /presentation-equipe-veterinaires-atlanticvet-niort-benet/ /equipe/atlanticvet/
+Redirect /mon-compte/ /ecarnet-presentation/
+Redirect /contacter-membres-clinique-atlanticvet-sur-niort-benet/ /contact/
+Redirect /urgences-medicales-et-chirurgicales/ /urgences/
+ErrorDocument 404 /404.html
+
+Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"

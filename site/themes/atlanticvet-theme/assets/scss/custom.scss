@@ -103,7 +103,7 @@
 }
 
 a.big-link {
-  font-size: 1.7rem;
+  font-size: 1.3rem;
   text-align: center;
   display: block;
   text-transform: uppercase;
@@ -410,6 +410,15 @@ button,
   .footer__cta {
     margin-top: -44px;
   }
+  
+}
+.footer__cta_action{
+  .btn + .btn {
+    margin-top: 10px;
+  }
+  button.btn{
+    margin:auto;
+  }
 }
 
 .toTop {
@@ -534,7 +543,11 @@ section.case-details {
 
 .sc-bloc-section {
   padding: 10px 20px;
-    margin-bottom: 30px;
-    border-left: 3px solid #38383882;
-  
+  margin-bottom: 30px;
+  border-left: 3px solid #38383882;
+}
+
+div.anchor {
+  margin: -80px;
+  position: absolute;
 }

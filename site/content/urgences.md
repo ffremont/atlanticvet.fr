@@ -16,7 +16,7 @@ Vous serez automatiquement rediriger vers une plateforme de régulation vétéri
 
 Le vétérinaire de la plateforme **vous questionnera** et **estimera le degré d'urgence** de votre animal. 
 
-Il vous donnera des conseils précis, et si votre animal nécessite **une prise en charge** d'urgence, il fixera un rendez-vous auprès du vétérinaire de garde parmi les 6 cliniques partenaires:
+Il vous donnera des conseils précis, et si votre animal nécessite **une prise en charge** d'urgence, il fixera un rendez-vous auprès du vétérinaire de garde (tour de garde) :
 - AtlanticVet (site de Niort)
 - Oscar&Cie (site de Mendes France)
 - Clinique vétérinaire du Coteau (Niort)
@@ -42,7 +42,3 @@ C’est la meilleure façon d’être efficace
 ### A ne pas donner !
 
 **Ne donnez jamais de médicaments à usage humain à votre animal : ils peuvent être dangereux.**
-
-### Déplacements
-
-**Pour les chiens**, chats et NACs le vétérinaire d’urgences ne se déplace que sur le site de Niort. 

@@ -62,9 +62,9 @@ _________________
 - chirurgie obstétrique : césarienne...
 
 {{< icon-heading iconUrl="/images/icons/conseil.png" label="Les chiffres-clés" >}}
-- + de 500 m2
+- plus de 500 m2
 - 30 places de parking
-- + de 100 m2 pour le hall d’accueil et d’attente
+- plus de 100 m2 pour le hall d’accueil et d’attente
 - 5 salles de consultations
 - 1 échographe
 - 1 radiographie numérique

@@ -30,7 +30,7 @@ url = "urgences"
 weight = 5
 [[menu.main]]
 name = "Infos pratiques"
-url = "#service"
+url = "#infos-pratiques"
 weight = 6
 [[menu.main]]
 name = "Services"

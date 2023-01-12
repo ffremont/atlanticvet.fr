@@ -1,17 +1,12 @@
 {
-	"name": "",
+	"name": "AtlanticVet Niort & Benet",
 	"icons": [
 		{
-			"src": "\/img\/android-chrome-192x192.png",
-			"sizes": "192x192",
-			"type": "image\/png"
-		},
-		{
-			"src": "\/img\/android-chrome-512x512.png",
+			"src": "/images/mini-logo-blanc.png",
 			"sizes": "512x512",
 			"type": "image\/png"
 		}
 	],
-	"theme_color": "#ffffff",
+	"theme_color": "#6e1646",
 	"display": "standalone"
 }

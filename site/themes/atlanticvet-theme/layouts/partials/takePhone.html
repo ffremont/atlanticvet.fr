@@ -20,10 +20,15 @@
                     <h2 class="mb-0">Prendre un rendez-vous</h2>
                 </div>
                 <div class="footer__cta_action">
-                    <a class="btn btn-light btn-zoom" style="color:#1b2031;" href="tel:{{ .Site.Params.contactTelNiort }}">Téléphoner à Niort</a>
-                    <a class="btn btn-light btn-zoom" style="color:#1b2031;" href="tel:{{ .Site.Params.contactTelBenet }}">Téléphoner à Benet</a>
+                    <a class="btn btn-light btn-zoom d-block d-sm-block d-md-none" style="color:#1b2031;" href="tel:{{ .Site.Params.contactTelNiort }}">Téléphoner à Niort</a>
+                    <a class="btn btn-light btn-zoom d-block d-sm-block d-md-none" style="color:#1b2031;" href="tel:{{ .Site.Params.contactTelBenet }}">Téléphoner à Benet</a>
+
+                    <button type="button" class="btn btn-light btn-zoom d-none d-md-block" style="color:#1b2031;">Niort au {{ .Site.Params.contactTelNiort }}</button>
+                    <button type="button" class="btn btn-light btn-zoom d-none d-md-block" style="color:#1b2031;">Benet au {{ .Site.Params.contactTelBenet }}</button>
                 </div>
             </div>
         </div>
     </div>
+
+    
 </div>

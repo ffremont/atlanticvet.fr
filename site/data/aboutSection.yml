@@ -3,6 +3,6 @@ enable: true
 title: >
   ## Carnet de santé électronique
 
-  Accédez gratuitement au carnet électronique de votre animal (coube de poids, analyses sanguines, radiographies...).
+  Accédez gratuitement au carnet électronique de votre animal (courbe de poids, analyses sanguines, radiographies...).
 button1Name: Accéder au e-carnet
 button1Target: ecarnet-presentation
