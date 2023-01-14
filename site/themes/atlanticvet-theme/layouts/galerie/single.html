@@ -32,13 +32,13 @@
         </p>
     
         <div class="">
-          <ul class="list-unstyled row gallery">
+          <ul class="list-unstyled row gallery" id="lightgallery">
 
             {{ range .Params.images }}
 
             <li class="col-xs-6 col-sm-4 col-md-3" data-src="{{.url}}">
               <a href="">
-                <img class="thumb img-responsive" src="{{.url}}" alt="{{.alt}}">
+                <img class="thumb img-responsive lozad" data-src="{{.url}}" alt="{{.alt}}" >
               </a>
             </li>
             {{end}}

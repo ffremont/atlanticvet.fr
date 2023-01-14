@@ -6,3 +6,4 @@ yarn-error.log
 .DS_Store
 .hugo_build.lock
 site/public
+deploy.sh
