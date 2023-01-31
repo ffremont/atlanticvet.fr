@@ -18,5 +18,4 @@ Utilisez l’interface en lien ci-dessous pour vous connecter à votre compte cl
 Si vous ne disposez pas de votre identifiant, [contactez-nous](/#takePhone).  
 
 
-**e-carnet accessible uniquement par ordinateur (inutilisable sur smartphone)**
-{{< big-link url="/ecarnet/myvetapps/" label="Y accéder (sur ordinateur)" >}}
+{{< big-link url="/ecarnet/myvetapps/" label="Y accéder" >}}
