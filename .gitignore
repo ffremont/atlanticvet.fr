@@ -7,3 +7,4 @@ yarn-error.log
 .hugo_build.lock
 site/public
 deploy.sh
+BACKUP-27.07.25
