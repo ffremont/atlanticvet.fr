@@ -14,11 +14,6 @@ description = ""
 image = "/images/equipe/Dr-Nicolas-Fraysse.png"
 
 [[entries]]
-label = "Docteur STAS Luc"
-description = ""
-image = "/images/equipe/Dr-Luc-Stas.png"  
-
-[[entries]]
 label = "Docteur VIOLLEAU Pascaline"
 description = ""
 image = "/images/equipe/Dr-Pascaline-Violleau.png"
@@ -39,6 +34,11 @@ description = ""
 image = "/images/equipe/dr_catherine-stas.png"
 
 [[entries]]
+label = "Ada S."
+description = ""
+image = "/images/equipe/ada-s.png"  
+
+[[entries]]
 label = "Charlotte B."
 description = ""
 image = "/images/equipe/Charlotte-Biet.png"  
@@ -47,6 +47,11 @@ image = "/images/equipe/Charlotte-Biet.png"
 label = "Céline B."
 description = ""
 image = "/images/equipe/Celine-Bouard_am.png"
+
+[[entries]]
+label = "Hélèna D."
+description = ""
+image = "/images/equipe/helena-d.png"  
 
 [[entries]]
 label = "Kathleen D."
@@ -64,16 +69,6 @@ description = ""
 image = "/images/equipe/Meggie-Gagnaire_am.png"  
 
 [[entries]]
-label = "Stéphanie M."
-description = ""
-image = "/images/equipe/Stephanie-Mousserion.png"
-
-[[entries]]
 label = "Lara B."
 description = ""
-image = "/images/equipe/lara-blond.png"
-
-[[entries]]
-label = "Morgan P."
-description = ""
-image = "/images/equipe/morgan.png"
+image = "/images/equipe/lara-b.png"

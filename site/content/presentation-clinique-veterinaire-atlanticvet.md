@@ -6,7 +6,7 @@ description: Présentation de la clinique AtlanticVet
 
 {{< img url="/images/logo.png" alt="atlantivet logo" >}}
 
-{{< heading4 text="Une équipe de 8 vétérinaires et 7 assistantes sur Niort et Benet" >}}
+{{< heading4 text="Une équipe de 7 vétérinaires et 7 assistantes sur Niort et Benet" >}}
 
 
 {{< blog-section >}}
